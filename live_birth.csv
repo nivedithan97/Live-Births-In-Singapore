@@ -1,0 +1,2668 @@
+year,ethnic_group_of_mother,age_group_of_mother,educational_qualification_of_mother,live_births
+2005,Chinese,Under 15,No Qualification,0
+2005,Chinese,15 - 19,No Qualification,9
+2005,Chinese,20 - 24,No Qualification,67
+2005,Chinese,25 - 29,No Qualification,196
+2005,Chinese,30 - 34,No Qualification,332
+2005,Chinese,35 - 39,No Qualification,210
+2005,Chinese,40 - 44,No Qualification,66
+2005,Chinese,45 - 49,No Qualification,4
+2005,Chinese,50 - 54,No Qualification,0
+2005,Chinese,Unknown,No Qualification,0
+2005,Chinese,Under 15,Primary,1
+2005,Chinese,15 - 19,Primary,96
+2005,Chinese,20 - 24,Primary,308
+2005,Chinese,25 - 29,Primary,635
+2005,Chinese,30 - 34,Primary,770
+2005,Chinese,35 - 39,Primary,378
+2005,Chinese,40 - 44,Primary,83
+2005,Chinese,45 - 49,Primary,1
+2005,Chinese,50 - 54,Primary,0
+2005,Chinese,Unknown,Primary,0
+2005,Chinese,Under 15,Secondary,0
+2005,Chinese,15 - 19,Secondary,144
+2005,Chinese,20 - 24,Secondary,617
+2005,Chinese,25 - 29,Secondary,1545
+2005,Chinese,30 - 34,Secondary,2016
+2005,Chinese,35 - 39,Secondary,996
+2005,Chinese,40 - 44,Secondary,185
+2005,Chinese,45 - 49,Secondary,2
+2005,Chinese,50 - 54,Secondary,0
+2005,Chinese,Unknown,Secondary,0
+2005,Chinese,Under 15,Upper Secondary,0
+2005,Chinese,15 - 19,Upper Secondary,1
+2005,Chinese,20 - 24,Upper Secondary,444
+2005,Chinese,25 - 29,Upper Secondary,2366
+2005,Chinese,30 - 34,Upper Secondary,3065
+2005,Chinese,35 - 39,Upper Secondary,1181
+2005,Chinese,40 - 44,Upper Secondary,166
+2005,Chinese,45 - 49,Upper Secondary,7
+2005,Chinese,50 - 54,Upper Secondary,0
+2005,Chinese,Unknown,Upper Secondary,0
+2005,Chinese,Under 15,University,0
+2005,Chinese,15 - 19,University,0
+2005,Chinese,20 - 24,University,80
+2005,Chinese,25 - 29,University,2426
+2005,Chinese,30 - 34,University,4348
+2005,Chinese,35 - 39,University,1398
+2005,Chinese,40 - 44,University,153
+2005,Chinese,45 - 49,University,3
+2005,Chinese,50 - 54,University,0
+2005,Chinese,Unknown,University,0
+2005,Chinese,Under 15,Unknown,0
+2005,Chinese,15 - 19,Unknown,0
+2005,Chinese,20 - 24,Unknown,2
+2005,Chinese,25 - 29,Unknown,3
+2005,Chinese,30 - 34,Unknown,0
+2005,Chinese,35 - 39,Unknown,1
+2005,Chinese,40 - 44,Unknown,0
+2005,Chinese,45 - 49,Unknown,0
+2005,Chinese,50 - 54,Unknown,0
+2005,Chinese,Unknown,Unknown,0
+2005,Malays,Under 15,No Qualification,1
+2005,Malays,15 - 19,No Qualification,43
+2005,Malays,20 - 24,No Qualification,157
+2005,Malays,25 - 29,No Qualification,211
+2005,Malays,30 - 34,No Qualification,210
+2005,Malays,35 - 39,No Qualification,133
+2005,Malays,40 - 44,No Qualification,59
+2005,Malays,45 - 49,No Qualification,5
+2005,Malays,50 - 54,No Qualification,0
+2005,Malays,Unknown,No Qualification,0
+2005,Malays,Under 15,Primary,8
+2005,Malays,15 - 19,Primary,186
+2005,Malays,20 - 24,Primary,300
+2005,Malays,25 - 29,Primary,315
+2005,Malays,30 - 34,Primary,247
+2005,Malays,35 - 39,Primary,135
+2005,Malays,40 - 44,Primary,52
+2005,Malays,45 - 49,Primary,2
+2005,Malays,50 - 54,Primary,0
+2005,Malays,Unknown,Primary,0
+2005,Malays,Under 15,Secondary,0
+2005,Malays,15 - 19,Secondary,247
+2005,Malays,20 - 24,Secondary,784
+2005,Malays,25 - 29,Secondary,946
+2005,Malays,30 - 34,Secondary,780
+2005,Malays,35 - 39,Secondary,379
+2005,Malays,40 - 44,Secondary,103
+2005,Malays,45 - 49,Secondary,1
+2005,Malays,50 - 54,Secondary,0
+2005,Malays,Unknown,Secondary,0
+2005,Malays,Under 15,Upper Secondary,0
+2005,Malays,15 - 19,Upper Secondary,0
+2005,Malays,20 - 24,Upper Secondary,190
+2005,Malays,25 - 29,Upper Secondary,567
+2005,Malays,30 - 34,Upper Secondary,404
+2005,Malays,35 - 39,Upper Secondary,195
+2005,Malays,40 - 44,Upper Secondary,23
+2005,Malays,45 - 49,Upper Secondary,4
+2005,Malays,50 - 54,Upper Secondary,0
+2005,Malays,Unknown,Upper Secondary,0
+2005,Malays,Under 15,University,0
+2005,Malays,15 - 19,University,0
+2005,Malays,20 - 24,University,28
+2005,Malays,25 - 29,University,216
+2005,Malays,30 - 34,University,222
+2005,Malays,35 - 39,University,75
+2005,Malays,40 - 44,University,5
+2005,Malays,45 - 49,University,0
+2005,Malays,50 - 54,University,0
+2005,Malays,Unknown,University,0
+2005,Malays,Under 15,Unknown,0
+2005,Malays,15 - 19,Unknown,0
+2005,Malays,20 - 24,Unknown,2
+2005,Malays,25 - 29,Unknown,1
+2005,Malays,30 - 34,Unknown,1
+2005,Malays,35 - 39,Unknown,0
+2005,Malays,40 - 44,Unknown,0
+2005,Malays,45 - 49,Unknown,0
+2005,Malays,50 - 54,Unknown,0
+2005,Malays,Unknown,Unknown,0
+2005,Indians,Under 15,No Qualification,0
+2005,Indians,15 - 19,No Qualification,8
+2005,Indians,20 - 24,No Qualification,38
+2005,Indians,25 - 29,No Qualification,72
+2005,Indians,30 - 34,No Qualification,59
+2005,Indians,35 - 39,No Qualification,44
+2005,Indians,40 - 44,No Qualification,17
+2005,Indians,45 - 49,No Qualification,2
+2005,Indians,50 - 54,No Qualification,0
+2005,Indians,Unknown,No Qualification,0
+2005,Indians,Under 15,Primary,1
+2005,Indians,15 - 19,Primary,31
+2005,Indians,20 - 24,Primary,76
+2005,Indians,25 - 29,Primary,87
+2005,Indians,30 - 34,Primary,68
+2005,Indians,35 - 39,Primary,27
+2005,Indians,40 - 44,Primary,11
+2005,Indians,45 - 49,Primary,0
+2005,Indians,50 - 54,Primary,0
+2005,Indians,Unknown,Primary,0
+2005,Indians,Under 15,Secondary,0
+2005,Indians,15 - 19,Secondary,33
+2005,Indians,20 - 24,Secondary,196
+2005,Indians,25 - 29,Secondary,262
+2005,Indians,30 - 34,Secondary,218
+2005,Indians,35 - 39,Secondary,102
+2005,Indians,40 - 44,Secondary,14
+2005,Indians,45 - 49,Secondary,1
+2005,Indians,50 - 54,Secondary,0
+2005,Indians,Unknown,Secondary,0
+2005,Indians,Under 15,Upper Secondary,0
+2005,Indians,15 - 19,Upper Secondary,1
+2005,Indians,20 - 24,Upper Secondary,122
+2005,Indians,25 - 29,Upper Secondary,278
+2005,Indians,30 - 34,Upper Secondary,213
+2005,Indians,35 - 39,Upper Secondary,85
+2005,Indians,40 - 44,Upper Secondary,19
+2005,Indians,45 - 49,Upper Secondary,1
+2005,Indians,50 - 54,Upper Secondary,0
+2005,Indians,Unknown,Upper Secondary,0
+2005,Indians,Under 15,University,0
+2005,Indians,15 - 19,University,0
+2005,Indians,20 - 24,University,51
+2005,Indians,25 - 29,University,459
+2005,Indians,30 - 34,University,555
+2005,Indians,35 - 39,University,156
+2005,Indians,40 - 44,University,17
+2005,Indians,45 - 49,University,0
+2005,Indians,50 - 54,University,0
+2005,Indians,Unknown,University,0
+2005,Indians,Under 15,Unknown,0
+2005,Indians,15 - 19,Unknown,0
+2005,Indians,20 - 24,Unknown,1
+2005,Indians,25 - 29,Unknown,0
+2005,Indians,30 - 34,Unknown,0
+2005,Indians,35 - 39,Unknown,0
+2005,Indians,40 - 44,Unknown,0
+2005,Indians,45 - 49,Unknown,0
+2005,Indians,50 - 54,Unknown,0
+2005,Indians,Unknown,Unknown,0
+2005,Others,Under 15,No Qualification,0
+2005,Others,15 - 19,No Qualification,5
+2005,Others,20 - 24,No Qualification,48
+2005,Others,25 - 29,No Qualification,34
+2005,Others,30 - 34,No Qualification,49
+2005,Others,35 - 39,No Qualification,21
+2005,Others,40 - 44,No Qualification,3
+2005,Others,45 - 49,No Qualification,1
+2005,Others,50 - 54,No Qualification,0
+2005,Others,Unknown,No Qualification,0
+2005,Others,Under 15,Primary,0
+2005,Others,15 - 19,Primary,16
+2005,Others,20 - 24,Primary,76
+2005,Others,25 - 29,Primary,70
+2005,Others,30 - 34,Primary,44
+2005,Others,35 - 39,Primary,23
+2005,Others,40 - 44,Primary,4
+2005,Others,45 - 49,Primary,0
+2005,Others,50 - 54,Primary,0
+2005,Others,Unknown,Primary,0
+2005,Others,Under 15,Secondary,0
+2005,Others,15 - 19,Secondary,22
+2005,Others,20 - 24,Secondary,50
+2005,Others,25 - 29,Secondary,40
+2005,Others,30 - 34,Secondary,47
+2005,Others,35 - 39,Secondary,25
+2005,Others,40 - 44,Secondary,5
+2005,Others,45 - 49,Secondary,2
+2005,Others,50 - 54,Secondary,0
+2005,Others,Unknown,Secondary,0
+2005,Others,Under 15,Upper Secondary,0
+2005,Others,15 - 19,Upper Secondary,0
+2005,Others,20 - 24,Upper Secondary,68
+2005,Others,25 - 29,Upper Secondary,205
+2005,Others,30 - 34,Upper Secondary,417
+2005,Others,35 - 39,Upper Secondary,224
+2005,Others,40 - 44,Upper Secondary,40
+2005,Others,45 - 49,Upper Secondary,3
+2005,Others,50 - 54,Upper Secondary,0
+2005,Others,Unknown,Upper Secondary,0
+2005,Others,Under 15,University,0
+2005,Others,15 - 19,University,0
+2005,Others,20 - 24,University,17
+2005,Others,25 - 29,University,177
+2005,Others,30 - 34,University,525
+2005,Others,35 - 39,University,303
+2005,Others,40 - 44,University,40
+2005,Others,45 - 49,University,1
+2005,Others,50 - 54,University,0
+2005,Others,Unknown,University,0
+2005,Others,Under 15,Unknown,0
+2005,Others,15 - 19,Unknown,0
+2005,Others,20 - 24,Unknown,1
+2005,Others,25 - 29,Unknown,3
+2005,Others,30 - 34,Unknown,3
+2005,Others,35 - 39,Unknown,10
+2005,Others,40 - 44,Unknown,2
+2005,Others,45 - 49,Unknown,0
+2005,Others,50 - 54,Unknown,0
+2005,Others,Unknown,Unknown,1
+2006,Chinese,Under 15,No Qualification,1
+2006,Chinese,15 - 19,No Qualification,4
+2006,Chinese,20 - 24,No Qualification,63
+2006,Chinese,25 - 29,No Qualification,187
+2006,Chinese,30 - 34,No Qualification,265
+2006,Chinese,35 - 39,No Qualification,214
+2006,Chinese,40 - 44,No Qualification,60
+2006,Chinese,45 - 49,No Qualification,2
+2006,Chinese,50 - 54,No Qualification,0
+2006,Chinese,Unknown,No Qualification,0
+2006,Chinese,Under 15,Primary,5
+2006,Chinese,15 - 19,Primary,87
+2006,Chinese,20 - 24,Primary,280
+2006,Chinese,25 - 29,Primary,627
+2006,Chinese,30 - 34,Primary,758
+2006,Chinese,35 - 39,Primary,362
+2006,Chinese,40 - 44,Primary,79
+2006,Chinese,45 - 49,Primary,1
+2006,Chinese,50 - 54,Primary,0
+2006,Chinese,Unknown,Primary,0
+2006,Chinese,Under 15,Secondary,0
+2006,Chinese,15 - 19,Secondary,126
+2006,Chinese,20 - 24,Secondary,610
+2006,Chinese,25 - 29,Secondary,1387
+2006,Chinese,30 - 34,Secondary,1994
+2006,Chinese,35 - 39,Secondary,994
+2006,Chinese,40 - 44,Secondary,182
+2006,Chinese,45 - 49,Secondary,4
+2006,Chinese,50 - 54,Secondary,0
+2006,Chinese,Unknown,Secondary,0
+2006,Chinese,Under 15,Upper Secondary,0
+2006,Chinese,15 - 19,Upper Secondary,6
+2006,Chinese,20 - 24,Upper Secondary,413
+2006,Chinese,25 - 29,Upper Secondary,2286
+2006,Chinese,30 - 34,Upper Secondary,3242
+2006,Chinese,35 - 39,Upper Secondary,1244
+2006,Chinese,40 - 44,Upper Secondary,141
+2006,Chinese,45 - 49,Upper Secondary,0
+2006,Chinese,50 - 54,Upper Secondary,0
+2006,Chinese,Unknown,Upper Secondary,0
+2006,Chinese,Under 15,University,0
+2006,Chinese,15 - 19,University,0
+2006,Chinese,20 - 24,University,85
+2006,Chinese,25 - 29,University,2403
+2006,Chinese,30 - 34,University,4730
+2006,Chinese,35 - 39,University,1598
+2006,Chinese,40 - 44,University,172
+2006,Chinese,45 - 49,University,5
+2006,Chinese,50 - 54,University,0
+2006,Chinese,Unknown,University,0
+2006,Chinese,Under 15,Unknown,0
+2006,Chinese,15 - 19,Unknown,0
+2006,Chinese,20 - 24,Unknown,0
+2006,Chinese,25 - 29,Unknown,0
+2006,Chinese,30 - 34,Unknown,0
+2006,Chinese,35 - 39,Unknown,3
+2006,Chinese,40 - 44,Unknown,1
+2006,Chinese,45 - 49,Unknown,0
+2006,Chinese,50 - 54,Unknown,0
+2006,Chinese,Unknown,Unknown,0
+2006,Malays,Under 15,No Qualification,1
+2006,Malays,15 - 19,No Qualification,25
+2006,Malays,20 - 24,No Qualification,120
+2006,Malays,25 - 29,No Qualification,231
+2006,Malays,30 - 34,No Qualification,228
+2006,Malays,35 - 39,No Qualification,118
+2006,Malays,40 - 44,No Qualification,56
+2006,Malays,45 - 49,No Qualification,3
+2006,Malays,50 - 54,No Qualification,0
+2006,Malays,Unknown,No Qualification,0
+2006,Malays,Under 15,Primary,3
+2006,Malays,15 - 19,Primary,214
+2006,Malays,20 - 24,Primary,271
+2006,Malays,25 - 29,Primary,279
+2006,Malays,30 - 34,Primary,250
+2006,Malays,35 - 39,Primary,116
+2006,Malays,40 - 44,Primary,59
+2006,Malays,45 - 49,Primary,1
+2006,Malays,50 - 54,Primary,0
+2006,Malays,Unknown,Primary,0
+2006,Malays,Under 15,Secondary,0
+2006,Malays,15 - 19,Secondary,213
+2006,Malays,20 - 24,Secondary,712
+2006,Malays,25 - 29,Secondary,1021
+2006,Malays,30 - 34,Secondary,794
+2006,Malays,35 - 39,Secondary,361
+2006,Malays,40 - 44,Secondary,121
+2006,Malays,45 - 49,Secondary,7
+2006,Malays,50 - 54,Secondary,0
+2006,Malays,Unknown,Secondary,0
+2006,Malays,Under 15,Upper Secondary,0
+2006,Malays,15 - 19,Upper Secondary,5
+2006,Malays,20 - 24,Upper Secondary,174
+2006,Malays,25 - 29,Upper Secondary,570
+2006,Malays,30 - 34,Upper Secondary,376
+2006,Malays,35 - 39,Upper Secondary,182
+2006,Malays,40 - 44,Upper Secondary,35
+2006,Malays,45 - 49,Upper Secondary,1
+2006,Malays,50 - 54,Upper Secondary,0
+2006,Malays,Unknown,Upper Secondary,0
+2006,Malays,Under 15,University,0
+2006,Malays,15 - 19,University,0
+2006,Malays,20 - 24,University,30
+2006,Malays,25 - 29,University,245
+2006,Malays,30 - 34,University,251
+2006,Malays,35 - 39,University,107
+2006,Malays,40 - 44,University,13
+2006,Malays,45 - 49,University,0
+2006,Malays,50 - 54,University,0
+2006,Malays,Unknown,University,0
+2006,Malays,Under 15,Unknown,0
+2006,Malays,15 - 19,Unknown,1
+2006,Malays,20 - 24,Unknown,1
+2006,Malays,25 - 29,Unknown,3
+2006,Malays,30 - 34,Unknown,1
+2006,Malays,35 - 39,Unknown,1
+2006,Malays,40 - 44,Unknown,0
+2006,Malays,45 - 49,Unknown,0
+2006,Malays,50 - 54,Unknown,0
+2006,Malays,Unknown,Unknown,0
+2006,Indians,Under 15,No Qualification,0
+2006,Indians,15 - 19,No Qualification,8
+2006,Indians,20 - 24,No Qualification,41
+2006,Indians,25 - 29,No Qualification,38
+2006,Indians,30 - 34,No Qualification,66
+2006,Indians,35 - 39,No Qualification,37
+2006,Indians,40 - 44,No Qualification,11
+2006,Indians,45 - 49,No Qualification,0
+2006,Indians,50 - 54,No Qualification,0
+2006,Indians,Unknown,No Qualification,0
+2006,Indians,Under 15,Primary,0
+2006,Indians,15 - 19,Primary,27
+2006,Indians,20 - 24,Primary,58
+2006,Indians,25 - 29,Primary,97
+2006,Indians,30 - 34,Primary,57
+2006,Indians,35 - 39,Primary,32
+2006,Indians,40 - 44,Primary,12
+2006,Indians,45 - 49,Primary,0
+2006,Indians,50 - 54,Primary,0
+2006,Indians,Unknown,Primary,0
+2006,Indians,Under 15,Secondary,0
+2006,Indians,15 - 19,Secondary,39
+2006,Indians,20 - 24,Secondary,175
+2006,Indians,25 - 29,Secondary,277
+2006,Indians,30 - 34,Secondary,238
+2006,Indians,35 - 39,Secondary,103
+2006,Indians,40 - 44,Secondary,28
+2006,Indians,45 - 49,Secondary,0
+2006,Indians,50 - 54,Secondary,0
+2006,Indians,Unknown,Secondary,0
+2006,Indians,Under 15,Upper Secondary,0
+2006,Indians,15 - 19,Upper Secondary,1
+2006,Indians,20 - 24,Upper Secondary,90
+2006,Indians,25 - 29,Upper Secondary,310
+2006,Indians,30 - 34,Upper Secondary,266
+2006,Indians,35 - 39,Upper Secondary,95
+2006,Indians,40 - 44,Upper Secondary,17
+2006,Indians,45 - 49,Upper Secondary,0
+2006,Indians,50 - 54,Upper Secondary,0
+2006,Indians,Unknown,Upper Secondary,0
+2006,Indians,Under 15,University,0
+2006,Indians,15 - 19,University,0
+2006,Indians,20 - 24,University,74
+2006,Indians,25 - 29,University,499
+2006,Indians,30 - 34,University,628
+2006,Indians,35 - 39,University,153
+2006,Indians,40 - 44,University,17
+2006,Indians,45 - 49,University,1
+2006,Indians,50 - 54,University,0
+2006,Indians,Unknown,University,0
+2006,Indians,Under 15,Unknown,0
+2006,Indians,15 - 19,Unknown,0
+2006,Indians,20 - 24,Unknown,2
+2006,Indians,25 - 29,Unknown,0
+2006,Indians,30 - 34,Unknown,0
+2006,Indians,35 - 39,Unknown,0
+2006,Indians,40 - 44,Unknown,0
+2006,Indians,45 - 49,Unknown,0
+2006,Indians,50 - 54,Unknown,0
+2006,Indians,Unknown,Unknown,0
+2006,Others,Under 15,No Qualification,0
+2006,Others,15 - 19,No Qualification,11
+2006,Others,20 - 24,No Qualification,68
+2006,Others,25 - 29,No Qualification,55
+2006,Others,30 - 34,No Qualification,36
+2006,Others,35 - 39,No Qualification,21
+2006,Others,40 - 44,No Qualification,2
+2006,Others,45 - 49,No Qualification,0
+2006,Others,50 - 54,No Qualification,0
+2006,Others,Unknown,No Qualification,0
+2006,Others,Under 15,Primary,1
+2006,Others,15 - 19,Primary,34
+2006,Others,20 - 24,Primary,99
+2006,Others,25 - 29,Primary,75
+2006,Others,30 - 34,Primary,54
+2006,Others,35 - 39,Primary,29
+2006,Others,40 - 44,Primary,3
+2006,Others,45 - 49,Primary,0
+2006,Others,50 - 54,Primary,0
+2006,Others,Unknown,Primary,0
+2006,Others,Under 15,Secondary,0
+2006,Others,15 - 19,Secondary,24
+2006,Others,20 - 24,Secondary,48
+2006,Others,25 - 29,Secondary,66
+2006,Others,30 - 34,Secondary,63
+2006,Others,35 - 39,Secondary,27
+2006,Others,40 - 44,Secondary,4
+2006,Others,45 - 49,Secondary,0
+2006,Others,50 - 54,Secondary,0
+2006,Others,Unknown,Secondary,0
+2006,Others,Under 15,Upper Secondary,0
+2006,Others,15 - 19,Upper Secondary,2
+2006,Others,20 - 24,Upper Secondary,76
+2006,Others,25 - 29,Upper Secondary,256
+2006,Others,30 - 34,Upper Secondary,430
+2006,Others,35 - 39,Upper Secondary,304
+2006,Others,40 - 44,Upper Secondary,38
+2006,Others,45 - 49,Upper Secondary,2
+2006,Others,50 - 54,Upper Secondary,0
+2006,Others,Unknown,Upper Secondary,0
+2006,Others,Under 15,University,0
+2006,Others,15 - 19,University,0
+2006,Others,20 - 24,University,8
+2006,Others,25 - 29,University,185
+2006,Others,30 - 34,University,555
+2006,Others,35 - 39,University,368
+2006,Others,40 - 44,University,44
+2006,Others,45 - 49,University,2
+2006,Others,50 - 54,University,0
+2006,Others,Unknown,University,0
+2006,Others,Under 15,Unknown,0
+2006,Others,15 - 19,Unknown,0
+2006,Others,20 - 24,Unknown,3
+2006,Others,25 - 29,Unknown,2
+2006,Others,30 - 34,Unknown,2
+2006,Others,35 - 39,Unknown,2
+2006,Others,40 - 44,Unknown,0
+2006,Others,45 - 49,Unknown,0
+2006,Others,50 - 54,Unknown,0
+2006,Others,Unknown,Unknown,0
+2007,Chinese,Under 15,No Qualification,0
+2007,Chinese,15 - 19,No Qualification,2
+2007,Chinese,20 - 24,No Qualification,64
+2007,Chinese,25 - 29,No Qualification,120
+2007,Chinese,30 - 34,No Qualification,232
+2007,Chinese,35 - 39,No Qualification,167
+2007,Chinese,40 - 44,No Qualification,43
+2007,Chinese,45 - 49,No Qualification,1
+2007,Chinese,50 - 54,No Qualification,0
+2007,Chinese,Unknown,No Qualification,0
+2007,Chinese,Under 15,Primary,7
+2007,Chinese,15 - 19,Primary,73
+2007,Chinese,20 - 24,Primary,242
+2007,Chinese,25 - 29,Primary,549
+2007,Chinese,30 - 34,Primary,667
+2007,Chinese,35 - 39,Primary,359
+2007,Chinese,40 - 44,Primary,93
+2007,Chinese,45 - 49,Primary,1
+2007,Chinese,50 - 54,Primary,0
+2007,Chinese,Unknown,Primary,0
+2007,Chinese,Under 15,Secondary,0
+2007,Chinese,15 - 19,Secondary,141
+2007,Chinese,20 - 24,Secondary,591
+2007,Chinese,25 - 29,Secondary,1395
+2007,Chinese,30 - 34,Secondary,1875
+2007,Chinese,35 - 39,Secondary,954
+2007,Chinese,40 - 44,Secondary,191
+2007,Chinese,45 - 49,Secondary,4
+2007,Chinese,50 - 54,Secondary,0
+2007,Chinese,Unknown,Secondary,0
+2007,Chinese,Under 15,Upper Secondary,0
+2007,Chinese,15 - 19,Upper Secondary,8
+2007,Chinese,20 - 24,Upper Secondary,423
+2007,Chinese,25 - 29,Upper Secondary,2159
+2007,Chinese,30 - 34,Upper Secondary,3028
+2007,Chinese,35 - 39,Upper Secondary,1293
+2007,Chinese,40 - 44,Upper Secondary,150
+2007,Chinese,45 - 49,Upper Secondary,2
+2007,Chinese,50 - 54,Upper Secondary,0
+2007,Chinese,Unknown,Upper Secondary,0
+2007,Chinese,Under 15,University,0
+2007,Chinese,15 - 19,University,0
+2007,Chinese,20 - 24,University,114
+2007,Chinese,25 - 29,University,2641
+2007,Chinese,30 - 34,University,5439
+2007,Chinese,35 - 39,University,2057
+2007,Chinese,40 - 44,University,202
+2007,Chinese,45 - 49,University,8
+2007,Chinese,50 - 54,University,1
+2007,Chinese,Unknown,University,0
+2007,Chinese,Under 15,Unknown,0
+2007,Chinese,15 - 19,Unknown,0
+2007,Chinese,20 - 24,Unknown,1
+2007,Chinese,25 - 29,Unknown,0
+2007,Chinese,30 - 34,Unknown,1
+2007,Chinese,35 - 39,Unknown,0
+2007,Chinese,40 - 44,Unknown,0
+2007,Chinese,45 - 49,Unknown,0
+2007,Chinese,50 - 54,Unknown,0
+2007,Chinese,Unknown,Unknown,0
+2007,Malays,Under 15,No Qualification,0
+2007,Malays,15 - 19,No Qualification,30
+2007,Malays,20 - 24,No Qualification,99
+2007,Malays,25 - 29,No Qualification,194
+2007,Malays,30 - 34,No Qualification,182
+2007,Malays,35 - 39,No Qualification,114
+2007,Malays,40 - 44,No Qualification,35
+2007,Malays,45 - 49,No Qualification,3
+2007,Malays,50 - 54,No Qualification,0
+2007,Malays,Unknown,No Qualification,0
+2007,Malays,Under 15,Primary,8
+2007,Malays,15 - 19,Primary,185
+2007,Malays,20 - 24,Primary,275
+2007,Malays,25 - 29,Primary,336
+2007,Malays,30 - 34,Primary,239
+2007,Malays,35 - 39,Primary,132
+2007,Malays,40 - 44,Primary,64
+2007,Malays,45 - 49,Primary,3
+2007,Malays,50 - 54,Primary,0
+2007,Malays,Unknown,Primary,0
+2007,Malays,Under 15,Secondary,0
+2007,Malays,15 - 19,Secondary,230
+2007,Malays,20 - 24,Secondary,750
+2007,Malays,25 - 29,Secondary,1005
+2007,Malays,30 - 34,Secondary,761
+2007,Malays,35 - 39,Secondary,356
+2007,Malays,40 - 44,Secondary,83
+2007,Malays,45 - 49,Secondary,4
+2007,Malays,50 - 54,Secondary,0
+2007,Malays,Unknown,Secondary,0
+2007,Malays,Under 15,Upper Secondary,0
+2007,Malays,15 - 19,Upper Secondary,4
+2007,Malays,20 - 24,Upper Secondary,157
+2007,Malays,25 - 29,Upper Secondary,535
+2007,Malays,30 - 34,Upper Secondary,364
+2007,Malays,35 - 39,Upper Secondary,199
+2007,Malays,40 - 44,Upper Secondary,28
+2007,Malays,45 - 49,Upper Secondary,0
+2007,Malays,50 - 54,Upper Secondary,0
+2007,Malays,Unknown,Upper Secondary,0
+2007,Malays,Under 15,University,0
+2007,Malays,15 - 19,University,0
+2007,Malays,20 - 24,University,24
+2007,Malays,25 - 29,University,258
+2007,Malays,30 - 34,University,245
+2007,Malays,35 - 39,University,121
+2007,Malays,40 - 44,University,18
+2007,Malays,45 - 49,University,0
+2007,Malays,50 - 54,University,0
+2007,Malays,Unknown,University,0
+2007,Malays,Under 15,Unknown,0
+2007,Malays,15 - 19,Unknown,1
+2007,Malays,20 - 24,Unknown,0
+2007,Malays,25 - 29,Unknown,1
+2007,Malays,30 - 34,Unknown,2
+2007,Malays,35 - 39,Unknown,0
+2007,Malays,40 - 44,Unknown,0
+2007,Malays,45 - 49,Unknown,0
+2007,Malays,50 - 54,Unknown,0
+2007,Malays,Unknown,Unknown,0
+2007,Indians,Under 15,No Qualification,0
+2007,Indians,15 - 19,No Qualification,5
+2007,Indians,20 - 24,No Qualification,27
+2007,Indians,25 - 29,No Qualification,49
+2007,Indians,30 - 34,No Qualification,52
+2007,Indians,35 - 39,No Qualification,27
+2007,Indians,40 - 44,No Qualification,6
+2007,Indians,45 - 49,No Qualification,1
+2007,Indians,50 - 54,No Qualification,0
+2007,Indians,Unknown,No Qualification,0
+2007,Indians,Under 15,Primary,0
+2007,Indians,15 - 19,Primary,26
+2007,Indians,20 - 24,Primary,62
+2007,Indians,25 - 29,Primary,91
+2007,Indians,30 - 34,Primary,63
+2007,Indians,35 - 39,Primary,38
+2007,Indians,40 - 44,Primary,14
+2007,Indians,45 - 49,Primary,1
+2007,Indians,50 - 54,Primary,0
+2007,Indians,Unknown,Primary,0
+2007,Indians,Under 15,Secondary,0
+2007,Indians,15 - 19,Secondary,46
+2007,Indians,20 - 24,Secondary,183
+2007,Indians,25 - 29,Secondary,281
+2007,Indians,30 - 34,Secondary,215
+2007,Indians,35 - 39,Secondary,101
+2007,Indians,40 - 44,Secondary,19
+2007,Indians,45 - 49,Secondary,1
+2007,Indians,50 - 54,Secondary,0
+2007,Indians,Unknown,Secondary,0
+2007,Indians,Under 15,Upper Secondary,0
+2007,Indians,15 - 19,Upper Secondary,0
+2007,Indians,20 - 24,Upper Secondary,104
+2007,Indians,25 - 29,Upper Secondary,273
+2007,Indians,30 - 34,Upper Secondary,237
+2007,Indians,35 - 39,Upper Secondary,99
+2007,Indians,40 - 44,Upper Secondary,18
+2007,Indians,45 - 49,Upper Secondary,0
+2007,Indians,50 - 54,Upper Secondary,0
+2007,Indians,Unknown,Upper Secondary,0
+2007,Indians,Under 15,University,0
+2007,Indians,15 - 19,University,0
+2007,Indians,20 - 24,University,61
+2007,Indians,25 - 29,University,592
+2007,Indians,30 - 34,University,714
+2007,Indians,35 - 39,University,201
+2007,Indians,40 - 44,University,19
+2007,Indians,45 - 49,University,0
+2007,Indians,50 - 54,University,0
+2007,Indians,Unknown,University,0
+2007,Indians,Under 15,Unknown,0
+2007,Indians,15 - 19,Unknown,0
+2007,Indians,20 - 24,Unknown,0
+2007,Indians,25 - 29,Unknown,0
+2007,Indians,30 - 34,Unknown,0
+2007,Indians,35 - 39,Unknown,0
+2007,Indians,40 - 44,Unknown,0
+2007,Indians,45 - 49,Unknown,0
+2007,Indians,50 - 54,Unknown,0
+2007,Indians,Unknown,Unknown,0
+2007,Others,Under 15,No Qualification,0
+2007,Others,15 - 19,No Qualification,10
+2007,Others,20 - 24,No Qualification,71
+2007,Others,25 - 29,No Qualification,60
+2007,Others,30 - 34,No Qualification,51
+2007,Others,35 - 39,No Qualification,32
+2007,Others,40 - 44,No Qualification,6
+2007,Others,45 - 49,No Qualification,0
+2007,Others,50 - 54,No Qualification,0
+2007,Others,Unknown,No Qualification,0
+2007,Others,Under 15,Primary,0
+2007,Others,15 - 19,Primary,22
+2007,Others,20 - 24,Primary,107
+2007,Others,25 - 29,Primary,106
+2007,Others,30 - 34,Primary,52
+2007,Others,35 - 39,Primary,28
+2007,Others,40 - 44,Primary,9
+2007,Others,45 - 49,Primary,0
+2007,Others,50 - 54,Primary,0
+2007,Others,Unknown,Primary,0
+2007,Others,Under 15,Secondary,0
+2007,Others,15 - 19,Secondary,20
+2007,Others,20 - 24,Secondary,63
+2007,Others,25 - 29,Secondary,53
+2007,Others,30 - 34,Secondary,49
+2007,Others,35 - 39,Secondary,37
+2007,Others,40 - 44,Secondary,9
+2007,Others,45 - 49,Secondary,1
+2007,Others,50 - 54,Secondary,0
+2007,Others,Unknown,Secondary,0
+2007,Others,Under 15,Upper Secondary,0
+2007,Others,15 - 19,Upper Secondary,2
+2007,Others,20 - 24,Upper Secondary,105
+2007,Others,25 - 29,Upper Secondary,233
+2007,Others,30 - 34,Upper Secondary,385
+2007,Others,35 - 39,Upper Secondary,223
+2007,Others,40 - 44,Upper Secondary,30
+2007,Others,45 - 49,Upper Secondary,0
+2007,Others,50 - 54,Upper Secondary,0
+2007,Others,Unknown,Upper Secondary,0
+2007,Others,Under 15,University,0
+2007,Others,15 - 19,University,0
+2007,Others,20 - 24,University,23
+2007,Others,25 - 29,University,296
+2007,Others,30 - 34,University,799
+2007,Others,35 - 39,University,542
+2007,Others,40 - 44,University,87
+2007,Others,45 - 49,University,1
+2007,Others,50 - 54,University,0
+2007,Others,Unknown,University,0
+2007,Others,Under 15,Unknown,0
+2007,Others,15 - 19,Unknown,0
+2007,Others,20 - 24,Unknown,2
+2007,Others,25 - 29,Unknown,2
+2007,Others,30 - 34,Unknown,3
+2007,Others,35 - 39,Unknown,1
+2007,Others,40 - 44,Unknown,0
+2007,Others,45 - 49,Unknown,0
+2007,Others,50 - 54,Unknown,0
+2007,Others,Unknown,Unknown,1
+2008,Chinese,Under 15,No Qualification,0
+2008,Chinese,15 - 19,No Qualification,5
+2008,Chinese,20 - 24,No Qualification,59
+2008,Chinese,25 - 29,No Qualification,120
+2008,Chinese,30 - 34,No Qualification,163
+2008,Chinese,35 - 39,No Qualification,132
+2008,Chinese,40 - 44,No Qualification,49
+2008,Chinese,45 - 49,No Qualification,3
+2008,Chinese,50 - 54,No Qualification,0
+2008,Chinese,Unknown,No Qualification,0
+2008,Chinese,Under 15,Primary,4
+2008,Chinese,15 - 19,Primary,100
+2008,Chinese,20 - 24,Primary,281
+2008,Chinese,25 - 29,Primary,615
+2008,Chinese,30 - 34,Primary,719
+2008,Chinese,35 - 39,Primary,401
+2008,Chinese,40 - 44,Primary,91
+2008,Chinese,45 - 49,Primary,1
+2008,Chinese,50 - 54,Primary,0
+2008,Chinese,Unknown,Primary,0
+2008,Chinese,Under 15,Secondary,0
+2008,Chinese,15 - 19,Secondary,153
+2008,Chinese,20 - 24,Secondary,499
+2008,Chinese,25 - 29,Secondary,1201
+2008,Chinese,30 - 34,Secondary,1599
+2008,Chinese,35 - 39,Secondary,919
+2008,Chinese,40 - 44,Secondary,155
+2008,Chinese,45 - 49,Secondary,4
+2008,Chinese,50 - 54,Secondary,1
+2008,Chinese,Unknown,Secondary,0
+2008,Chinese,Under 15,Post Secondary,0
+2008,Chinese,15 - 19,Post Secondary,3
+2008,Chinese,20 - 24,Post Secondary,432
+2008,Chinese,25 - 29,Post Secondary,2095
+2008,Chinese,30 - 34,Post Secondary,2676
+2008,Chinese,35 - 39,Post Secondary,1213
+2008,Chinese,40 - 44,Post Secondary,164
+2008,Chinese,45 - 49,Post Secondary,3
+2008,Chinese,50 - 54,Post Secondary,0
+2008,Chinese,Unknown,Post Secondary,0
+2008,Chinese,Under 15,University,0
+2008,Chinese,15 - 19,University,0
+2008,Chinese,20 - 24,University,93
+2008,Chinese,25 - 29,University,2843
+2008,Chinese,30 - 34,University,5869
+2008,Chinese,35 - 39,University,2284
+2008,Chinese,40 - 44,University,218
+2008,Chinese,45 - 49,University,4
+2008,Chinese,50 - 54,University,0
+2008,Chinese,Unknown,University,0
+2008,Chinese,Under 15,Unknown,0
+2008,Chinese,15 - 19,Unknown,0
+2008,Chinese,20 - 24,Unknown,0
+2008,Chinese,25 - 29,Unknown,0
+2008,Chinese,30 - 34,Unknown,0
+2008,Chinese,35 - 39,Unknown,0
+2008,Chinese,40 - 44,Unknown,1
+2008,Chinese,45 - 49,Unknown,0
+2008,Chinese,50 - 54,Unknown,0
+2008,Chinese,Unknown,Unknown,0
+2008,Malays,Under 15,No Qualification,0
+2008,Malays,15 - 19,No Qualification,25
+2008,Malays,20 - 24,No Qualification,86
+2008,Malays,25 - 29,No Qualification,158
+2008,Malays,30 - 34,No Qualification,156
+2008,Malays,35 - 39,No Qualification,106
+2008,Malays,40 - 44,No Qualification,50
+2008,Malays,45 - 49,No Qualification,1
+2008,Malays,50 - 54,No Qualification,0
+2008,Malays,Unknown,No Qualification,0
+2008,Malays,Under 15,Primary,5
+2008,Malays,15 - 19,Primary,166
+2008,Malays,20 - 24,Primary,278
+2008,Malays,25 - 29,Primary,309
+2008,Malays,30 - 34,Primary,249
+2008,Malays,35 - 39,Primary,149
+2008,Malays,40 - 44,Primary,63
+2008,Malays,45 - 49,Primary,1
+2008,Malays,50 - 54,Primary,0
+2008,Malays,Unknown,Primary,0
+2008,Malays,Under 15,Secondary,0
+2008,Malays,15 - 19,Secondary,222
+2008,Malays,20 - 24,Secondary,631
+2008,Malays,25 - 29,Secondary,974
+2008,Malays,30 - 34,Secondary,652
+2008,Malays,35 - 39,Secondary,388
+2008,Malays,40 - 44,Secondary,76
+2008,Malays,45 - 49,Secondary,4
+2008,Malays,50 - 54,Secondary,0
+2008,Malays,Unknown,Secondary,0
+2008,Malays,Under 15,Post Secondary,0
+2008,Malays,15 - 19,Post Secondary,1
+2008,Malays,20 - 24,Post Secondary,197
+2008,Malays,25 - 29,Post Secondary,690
+2008,Malays,30 - 34,Post Secondary,393
+2008,Malays,35 - 39,Post Secondary,184
+2008,Malays,40 - 44,Post Secondary,32
+2008,Malays,45 - 49,Post Secondary,2
+2008,Malays,50 - 54,Post Secondary,0
+2008,Malays,Unknown,Post Secondary,0
+2008,Malays,Under 15,University,0
+2008,Malays,15 - 19,University,0
+2008,Malays,20 - 24,University,26
+2008,Malays,25 - 29,University,294
+2008,Malays,30 - 34,University,269
+2008,Malays,35 - 39,University,103
+2008,Malays,40 - 44,University,26
+2008,Malays,45 - 49,University,0
+2008,Malays,50 - 54,University,0
+2008,Malays,Unknown,University,0
+2008,Malays,Under 15,Unknown,0
+2008,Malays,15 - 19,Unknown,0
+2008,Malays,20 - 24,Unknown,0
+2008,Malays,25 - 29,Unknown,1
+2008,Malays,30 - 34,Unknown,2
+2008,Malays,35 - 39,Unknown,0
+2008,Malays,40 - 44,Unknown,0
+2008,Malays,45 - 49,Unknown,0
+2008,Malays,50 - 54,Unknown,0
+2008,Malays,Unknown,Unknown,0
+2008,Indians,Under 15,No Qualification,0
+2008,Indians,15 - 19,No Qualification,4
+2008,Indians,20 - 24,No Qualification,23
+2008,Indians,25 - 29,No Qualification,34
+2008,Indians,30 - 34,No Qualification,41
+2008,Indians,35 - 39,No Qualification,22
+2008,Indians,40 - 44,No Qualification,6
+2008,Indians,45 - 49,No Qualification,0
+2008,Indians,50 - 54,No Qualification,0
+2008,Indians,Unknown,No Qualification,0
+2008,Indians,Under 15,Primary,2
+2008,Indians,15 - 19,Primary,33
+2008,Indians,20 - 24,Primary,83
+2008,Indians,25 - 29,Primary,93
+2008,Indians,30 - 34,Primary,66
+2008,Indians,35 - 39,Primary,50
+2008,Indians,40 - 44,Primary,10
+2008,Indians,45 - 49,Primary,0
+2008,Indians,50 - 54,Primary,0
+2008,Indians,Unknown,Primary,0
+2008,Indians,Under 15,Secondary,0
+2008,Indians,15 - 19,Secondary,43
+2008,Indians,20 - 24,Secondary,151
+2008,Indians,25 - 29,Secondary,273
+2008,Indians,30 - 34,Secondary,162
+2008,Indians,35 - 39,Secondary,80
+2008,Indians,40 - 44,Secondary,13
+2008,Indians,45 - 49,Secondary,3
+2008,Indians,50 - 54,Secondary,0
+2008,Indians,Unknown,Secondary,0
+2008,Indians,Under 15,Post Secondary,0
+2008,Indians,15 - 19,Post Secondary,1
+2008,Indians,20 - 24,Post Secondary,123
+2008,Indians,25 - 29,Post Secondary,277
+2008,Indians,30 - 34,Post Secondary,230
+2008,Indians,35 - 39,Post Secondary,75
+2008,Indians,40 - 44,Post Secondary,10
+2008,Indians,45 - 49,Post Secondary,0
+2008,Indians,50 - 54,Post Secondary,0
+2008,Indians,Unknown,Post Secondary,0
+2008,Indians,Under 15,University,0
+2008,Indians,15 - 19,University,0
+2008,Indians,20 - 24,University,52
+2008,Indians,25 - 29,University,628
+2008,Indians,30 - 34,University,810
+2008,Indians,35 - 39,University,238
+2008,Indians,40 - 44,University,27
+2008,Indians,45 - 49,University,0
+2008,Indians,50 - 54,University,0
+2008,Indians,Unknown,University,0
+2008,Indians,Under 15,Unknown,0
+2008,Indians,15 - 19,Unknown,0
+2008,Indians,20 - 24,Unknown,0
+2008,Indians,25 - 29,Unknown,0
+2008,Indians,30 - 34,Unknown,0
+2008,Indians,35 - 39,Unknown,0
+2008,Indians,40 - 44,Unknown,0
+2008,Indians,45 - 49,Unknown,0
+2008,Indians,50 - 54,Unknown,0
+2008,Indians,Unknown,Unknown,0
+2008,Others,Under 15,No Qualification,0
+2008,Others,15 - 19,No Qualification,6
+2008,Others,20 - 24,No Qualification,117
+2008,Others,25 - 29,No Qualification,104
+2008,Others,30 - 34,No Qualification,56
+2008,Others,35 - 39,No Qualification,26
+2008,Others,40 - 44,No Qualification,8
+2008,Others,45 - 49,No Qualification,0
+2008,Others,50 - 54,No Qualification,0
+2008,Others,Unknown,No Qualification,0
+2008,Others,Under 15,Primary,0
+2008,Others,15 - 19,Primary,28
+2008,Others,20 - 24,Primary,111
+2008,Others,25 - 29,Primary,129
+2008,Others,30 - 34,Primary,81
+2008,Others,35 - 39,Primary,32
+2008,Others,40 - 44,Primary,6
+2008,Others,45 - 49,Primary,1
+2008,Others,50 - 54,Primary,0
+2008,Others,Unknown,Primary,0
+2008,Others,Under 15,Secondary,0
+2008,Others,15 - 19,Secondary,15
+2008,Others,20 - 24,Secondary,44
+2008,Others,25 - 29,Secondary,52
+2008,Others,30 - 34,Secondary,37
+2008,Others,35 - 39,Secondary,16
+2008,Others,40 - 44,Secondary,7
+2008,Others,45 - 49,Secondary,0
+2008,Others,50 - 54,Secondary,0
+2008,Others,Unknown,Secondary,0
+2008,Others,Under 15,Post Secondary,0
+2008,Others,15 - 19,Post Secondary,0
+2008,Others,20 - 24,Post Secondary,115
+2008,Others,25 - 29,Post Secondary,208
+2008,Others,30 - 34,Post Secondary,286
+2008,Others,35 - 39,Post Secondary,180
+2008,Others,40 - 44,Post Secondary,33
+2008,Others,45 - 49,Post Secondary,1
+2008,Others,50 - 54,Post Secondary,0
+2008,Others,Unknown,Post Secondary,0
+2008,Others,Under 15,University,0
+2008,Others,15 - 19,University,0
+2008,Others,20 - 24,University,29
+2008,Others,25 - 29,University,433
+2008,Others,30 - 34,University,1039
+2008,Others,35 - 39,University,711
+2008,Others,40 - 44,University,109
+2008,Others,45 - 49,University,0
+2008,Others,50 - 54,University,0
+2008,Others,Unknown,University,0
+2008,Others,Under 15,Unknown,0
+2008,Others,15 - 19,Unknown,0
+2008,Others,20 - 24,Unknown,0
+2008,Others,25 - 29,Unknown,1
+2008,Others,30 - 34,Unknown,0
+2008,Others,35 - 39,Unknown,0
+2008,Others,40 - 44,Unknown,0
+2008,Others,45 - 49,Unknown,0
+2008,Others,50 - 54,Unknown,0
+2008,Others,Unknown,Unknown,1
+2009,Chinese,Under 15,No Qualification,0
+2009,Chinese,15 - 19,No Qualification,4
+2009,Chinese,20 - 24,No Qualification,54
+2009,Chinese,25 - 29,No Qualification,111
+2009,Chinese,30 - 34,No Qualification,133
+2009,Chinese,35 - 39,No Qualification,110
+2009,Chinese,40 - 44,No Qualification,47
+2009,Chinese,45 - 49,No Qualification,3
+2009,Chinese,50 - 54,No Qualification,0
+2009,Chinese,Unknown,No Qualification,0
+2009,Chinese,Under 15,Primary,4
+2009,Chinese,15 - 19,Primary,73
+2009,Chinese,20 - 24,Primary,234
+2009,Chinese,25 - 29,Primary,525
+2009,Chinese,30 - 34,Primary,544
+2009,Chinese,35 - 39,Primary,413
+2009,Chinese,40 - 44,Primary,77
+2009,Chinese,45 - 49,Primary,3
+2009,Chinese,50 - 54,Primary,0
+2009,Chinese,Unknown,Primary,0
+2009,Chinese,Under 15,Secondary,0
+2009,Chinese,15 - 19,Secondary,126
+2009,Chinese,20 - 24,Secondary,484
+2009,Chinese,25 - 29,Secondary,979
+2009,Chinese,30 - 34,Secondary,1293
+2009,Chinese,35 - 39,Secondary,925
+2009,Chinese,40 - 44,Secondary,147
+2009,Chinese,45 - 49,Secondary,7
+2009,Chinese,50 - 54,Secondary,0
+2009,Chinese,Unknown,Secondary,0
+2009,Chinese,Under 15,Post Secondary,0
+2009,Chinese,15 - 19,Post Secondary,1
+2009,Chinese,20 - 24,Post Secondary,435
+2009,Chinese,25 - 29,Post Secondary,2086
+2009,Chinese,30 - 34,Post Secondary,2693
+2009,Chinese,35 - 39,Post Secondary,1287
+2009,Chinese,40 - 44,Post Secondary,185
+2009,Chinese,45 - 49,Post Secondary,8
+2009,Chinese,50 - 54,Post Secondary,0
+2009,Chinese,Unknown,Post Secondary,0
+2009,Chinese,Under 15,University,0
+2009,Chinese,15 - 19,University,0
+2009,Chinese,20 - 24,University,60
+2009,Chinese,25 - 29,University,2788
+2009,Chinese,30 - 34,University,5829
+2009,Chinese,35 - 39,University,2608
+2009,Chinese,40 - 44,University,299
+2009,Chinese,45 - 49,University,7
+2009,Chinese,50 - 54,University,2
+2009,Chinese,Unknown,University,0
+2009,Chinese,Under 15,Unknown,0
+2009,Chinese,15 - 19,Unknown,1
+2009,Chinese,20 - 24,Unknown,0
+2009,Chinese,25 - 29,Unknown,1
+2009,Chinese,30 - 34,Unknown,0
+2009,Chinese,35 - 39,Unknown,0
+2009,Chinese,40 - 44,Unknown,0
+2009,Chinese,45 - 49,Unknown,0
+2009,Chinese,50 - 54,Unknown,0
+2009,Chinese,Unknown,Unknown,0
+2009,Malays,Under 15,No Qualification,1
+2009,Malays,15 - 19,No Qualification,27
+2009,Malays,20 - 24,No Qualification,79
+2009,Malays,25 - 29,No Qualification,158
+2009,Malays,30 - 34,No Qualification,162
+2009,Malays,35 - 39,No Qualification,85
+2009,Malays,40 - 44,No Qualification,44
+2009,Malays,45 - 49,No Qualification,2
+2009,Malays,50 - 54,No Qualification,0
+2009,Malays,Unknown,No Qualification,0
+2009,Malays,Under 15,Primary,5
+2009,Malays,15 - 19,Primary,135
+2009,Malays,20 - 24,Primary,241
+2009,Malays,25 - 29,Primary,266
+2009,Malays,30 - 34,Primary,216
+2009,Malays,35 - 39,Primary,125
+2009,Malays,40 - 44,Primary,49
+2009,Malays,45 - 49,Primary,2
+2009,Malays,50 - 54,Primary,0
+2009,Malays,Unknown,Primary,0
+2009,Malays,Under 15,Secondary,0
+2009,Malays,15 - 19,Secondary,206
+2009,Malays,20 - 24,Secondary,548
+2009,Malays,25 - 29,Secondary,915
+2009,Malays,30 - 34,Secondary,622
+2009,Malays,35 - 39,Secondary,300
+2009,Malays,40 - 44,Secondary,85
+2009,Malays,45 - 49,Secondary,2
+2009,Malays,50 - 54,Secondary,0
+2009,Malays,Unknown,Secondary,0
+2009,Malays,Under 15,Post Secondary,0
+2009,Malays,15 - 19,Post Secondary,0
+2009,Malays,20 - 24,Post Secondary,228
+2009,Malays,25 - 29,Post Secondary,825
+2009,Malays,30 - 34,Post Secondary,471
+2009,Malays,35 - 39,Post Secondary,198
+2009,Malays,40 - 44,Post Secondary,28
+2009,Malays,45 - 49,Post Secondary,2
+2009,Malays,50 - 54,Post Secondary,0
+2009,Malays,Unknown,Post Secondary,0
+2009,Malays,Under 15,University,0
+2009,Malays,15 - 19,University,0
+2009,Malays,20 - 24,University,11
+2009,Malays,25 - 29,University,275
+2009,Malays,30 - 34,University,258
+2009,Malays,35 - 39,University,116
+2009,Malays,40 - 44,University,12
+2009,Malays,45 - 49,University,0
+2009,Malays,50 - 54,University,0
+2009,Malays,Unknown,University,0
+2009,Malays,Under 15,Unknown,0
+2009,Malays,15 - 19,Unknown,1
+2009,Malays,20 - 24,Unknown,0
+2009,Malays,25 - 29,Unknown,1
+2009,Malays,30 - 34,Unknown,3
+2009,Malays,35 - 39,Unknown,0
+2009,Malays,40 - 44,Unknown,0
+2009,Malays,45 - 49,Unknown,0
+2009,Malays,50 - 54,Unknown,0
+2009,Malays,Unknown,Unknown,0
+2009,Indians,Under 15,No Qualification,0
+2009,Indians,15 - 19,No Qualification,3
+2009,Indians,20 - 24,No Qualification,21
+2009,Indians,25 - 29,No Qualification,29
+2009,Indians,30 - 34,No Qualification,29
+2009,Indians,35 - 39,No Qualification,24
+2009,Indians,40 - 44,No Qualification,10
+2009,Indians,45 - 49,No Qualification,2
+2009,Indians,50 - 54,No Qualification,0
+2009,Indians,Unknown,No Qualification,0
+2009,Indians,Under 15,Primary,0
+2009,Indians,15 - 19,Primary,19
+2009,Indians,20 - 24,Primary,66
+2009,Indians,25 - 29,Primary,91
+2009,Indians,30 - 34,Primary,74
+2009,Indians,35 - 39,Primary,33
+2009,Indians,40 - 44,Primary,11
+2009,Indians,45 - 49,Primary,2
+2009,Indians,50 - 54,Primary,0
+2009,Indians,Unknown,Primary,0
+2009,Indians,Under 15,Secondary,0
+2009,Indians,15 - 19,Secondary,31
+2009,Indians,20 - 24,Secondary,156
+2009,Indians,25 - 29,Secondary,231
+2009,Indians,30 - 34,Secondary,152
+2009,Indians,35 - 39,Secondary,75
+2009,Indians,40 - 44,Secondary,18
+2009,Indians,45 - 49,Secondary,0
+2009,Indians,50 - 54,Secondary,0
+2009,Indians,Unknown,Secondary,0
+2009,Indians,Under 15,Post Secondary,0
+2009,Indians,15 - 19,Post Secondary,0
+2009,Indians,20 - 24,Post Secondary,133
+2009,Indians,25 - 29,Post Secondary,331
+2009,Indians,30 - 34,Post Secondary,255
+2009,Indians,35 - 39,Post Secondary,87
+2009,Indians,40 - 44,Post Secondary,14
+2009,Indians,45 - 49,Post Secondary,0
+2009,Indians,50 - 54,Post Secondary,0
+2009,Indians,Unknown,Post Secondary,0
+2009,Indians,Under 15,University,0
+2009,Indians,15 - 19,University,0
+2009,Indians,20 - 24,University,41
+2009,Indians,25 - 29,University,681
+2009,Indians,30 - 34,University,903
+2009,Indians,35 - 39,University,260
+2009,Indians,40 - 44,University,31
+2009,Indians,45 - 49,University,1
+2009,Indians,50 - 54,University,0
+2009,Indians,Unknown,University,0
+2009,Indians,Under 15,Unknown,0
+2009,Indians,15 - 19,Unknown,0
+2009,Indians,20 - 24,Unknown,0
+2009,Indians,25 - 29,Unknown,0
+2009,Indians,30 - 34,Unknown,0
+2009,Indians,35 - 39,Unknown,0
+2009,Indians,40 - 44,Unknown,0
+2009,Indians,45 - 49,Unknown,0
+2009,Indians,50 - 54,Unknown,0
+2009,Indians,Unknown,Unknown,0
+2009,Others,Under 15,No Qualification,0
+2009,Others,15 - 19,No Qualification,11
+2009,Others,20 - 24,No Qualification,120
+2009,Others,25 - 29,No Qualification,135
+2009,Others,30 - 34,No Qualification,65
+2009,Others,35 - 39,No Qualification,31
+2009,Others,40 - 44,No Qualification,8
+2009,Others,45 - 49,No Qualification,1
+2009,Others,50 - 54,No Qualification,0
+2009,Others,Unknown,No Qualification,0
+2009,Others,Under 15,Primary,0
+2009,Others,15 - 19,Primary,19
+2009,Others,20 - 24,Primary,142
+2009,Others,25 - 29,Primary,137
+2009,Others,30 - 34,Primary,83
+2009,Others,35 - 39,Primary,42
+2009,Others,40 - 44,Primary,7
+2009,Others,45 - 49,Primary,0
+2009,Others,50 - 54,Primary,0
+2009,Others,Unknown,Primary,0
+2009,Others,Under 15,Secondary,0
+2009,Others,15 - 19,Secondary,11
+2009,Others,20 - 24,Secondary,49
+2009,Others,25 - 29,Secondary,71
+2009,Others,30 - 34,Secondary,41
+2009,Others,35 - 39,Secondary,29
+2009,Others,40 - 44,Secondary,3
+2009,Others,45 - 49,Secondary,0
+2009,Others,50 - 54,Secondary,0
+2009,Others,Unknown,Secondary,0
+2009,Others,Under 15,Post Secondary,0
+2009,Others,15 - 19,Post Secondary,0
+2009,Others,20 - 24,Post Secondary,101
+2009,Others,25 - 29,Post Secondary,206
+2009,Others,30 - 34,Post Secondary,233
+2009,Others,35 - 39,Post Secondary,184
+2009,Others,40 - 44,Post Secondary,27
+2009,Others,45 - 49,Post Secondary,4
+2009,Others,50 - 54,Post Secondary,0
+2009,Others,Unknown,Post Secondary,0
+2009,Others,Under 15,University,0
+2009,Others,15 - 19,University,0
+2009,Others,20 - 24,University,36
+2009,Others,25 - 29,University,490
+2009,Others,30 - 34,University,1248
+2009,Others,35 - 39,University,781
+2009,Others,40 - 44,University,139
+2009,Others,45 - 49,University,5
+2009,Others,50 - 54,University,0
+2009,Others,Unknown,University,0
+2009,Others,Under 15,Unknown,0
+2009,Others,15 - 19,Unknown,0
+2009,Others,20 - 24,Unknown,0
+2009,Others,25 - 29,Unknown,3
+2009,Others,30 - 34,Unknown,3
+2009,Others,35 - 39,Unknown,1
+2009,Others,40 - 44,Unknown,0
+2009,Others,45 - 49,Unknown,0
+2009,Others,50 - 54,Unknown,0
+2009,Others,Unknown,Unknown,0
+2010,Chinese,Under 15,No Qualification,0
+2010,Chinese,15 - 19,No Qualification,7
+2010,Chinese,20 - 24,No Qualification,45
+2010,Chinese,25 - 29,No Qualification,88
+2010,Chinese,30 - 34,No Qualification,124
+2010,Chinese,35 - 39,No Qualification,101
+2010,Chinese,40 - 44,No Qualification,23
+2010,Chinese,45 - 49,No Qualification,3
+2010,Chinese,50 - 54,No Qualification,0
+2010,Chinese,Unknown,No Qualification,0
+2010,Chinese,Under 15,Primary,4
+2010,Chinese,15 - 19,Primary,86
+2010,Chinese,20 - 24,Primary,249
+2010,Chinese,25 - 29,Primary,494
+2010,Chinese,30 - 34,Primary,494
+2010,Chinese,35 - 39,Primary,393
+2010,Chinese,40 - 44,Primary,73
+2010,Chinese,45 - 49,Primary,2
+2010,Chinese,50 - 54,Primary,0
+2010,Chinese,Unknown,Primary,0
+2010,Chinese,Under 15,Secondary,0
+2010,Chinese,15 - 19,Secondary,132
+2010,Chinese,20 - 24,Secondary,420
+2010,Chinese,25 - 29,Secondary,827
+2010,Chinese,30 - 34,Secondary,1042
+2010,Chinese,35 - 39,Secondary,781
+2010,Chinese,40 - 44,Secondary,117
+2010,Chinese,45 - 49,Secondary,9
+2010,Chinese,50 - 54,Secondary,0
+2010,Chinese,Unknown,Secondary,0
+2010,Chinese,Under 15,Post Secondary,0
+2010,Chinese,15 - 19,Post Secondary,2
+2010,Chinese,20 - 24,Post Secondary,397
+2010,Chinese,25 - 29,Post Secondary,1846
+2010,Chinese,30 - 34,Post Secondary,2495
+2010,Chinese,35 - 39,Post Secondary,1237
+2010,Chinese,40 - 44,Post Secondary,169
+2010,Chinese,45 - 49,Post Secondary,4
+2010,Chinese,50 - 54,Post Secondary,0
+2010,Chinese,Unknown,Post Secondary,0
+2010,Chinese,Under 15,University,0
+2010,Chinese,15 - 19,University,0
+2010,Chinese,20 - 24,University,80
+2010,Chinese,25 - 29,University,2594
+2010,Chinese,30 - 34,University,5822
+2010,Chinese,35 - 39,University,2757
+2010,Chinese,40 - 44,University,282
+2010,Chinese,45 - 49,University,9
+2010,Chinese,50 - 54,University,1
+2010,Chinese,Unknown,University,0
+2010,Chinese,Under 15,Unknown,0
+2010,Chinese,15 - 19,Unknown,0
+2010,Chinese,20 - 24,Unknown,0
+2010,Chinese,25 - 29,Unknown,1
+2010,Chinese,30 - 34,Unknown,1
+2010,Chinese,35 - 39,Unknown,0
+2010,Chinese,40 - 44,Unknown,0
+2010,Chinese,45 - 49,Unknown,0
+2010,Chinese,50 - 54,Unknown,0
+2010,Chinese,Unknown,Unknown,0
+2010,Malays,Under 15,No Qualification,0
+2010,Malays,15 - 19,No Qualification,20
+2010,Malays,20 - 24,No Qualification,50
+2010,Malays,25 - 29,No Qualification,113
+2010,Malays,30 - 34,No Qualification,132
+2010,Malays,35 - 39,No Qualification,94
+2010,Malays,40 - 44,No Qualification,19
+2010,Malays,45 - 49,No Qualification,3
+2010,Malays,50 - 54,No Qualification,0
+2010,Malays,Unknown,No Qualification,0
+2010,Malays,Under 15,Primary,2
+2010,Malays,15 - 19,Primary,122
+2010,Malays,20 - 24,Primary,244
+2010,Malays,25 - 29,Primary,213
+2010,Malays,30 - 34,Primary,180
+2010,Malays,35 - 39,Primary,123
+2010,Malays,40 - 44,Primary,30
+2010,Malays,45 - 49,Primary,2
+2010,Malays,50 - 54,Primary,0
+2010,Malays,Unknown,Primary,0
+2010,Malays,Under 15,Secondary,0
+2010,Malays,15 - 19,Secondary,161
+2010,Malays,20 - 24,Secondary,544
+2010,Malays,25 - 29,Secondary,839
+2010,Malays,30 - 34,Secondary,613
+2010,Malays,35 - 39,Secondary,305
+2010,Malays,40 - 44,Secondary,67
+2010,Malays,45 - 49,Secondary,5
+2010,Malays,50 - 54,Secondary,0
+2010,Malays,Unknown,Secondary,0
+2010,Malays,Under 15,Post Secondary,0
+2010,Malays,15 - 19,Post Secondary,3
+2010,Malays,20 - 24,Post Secondary,189
+2010,Malays,25 - 29,Post Secondary,817
+2010,Malays,30 - 34,Post Secondary,427
+2010,Malays,35 - 39,Post Secondary,192
+2010,Malays,40 - 44,Post Secondary,28
+2010,Malays,45 - 49,Post Secondary,1
+2010,Malays,50 - 54,Post Secondary,0
+2010,Malays,Unknown,Post Secondary,0
+2010,Malays,Under 15,University,0
+2010,Malays,15 - 19,University,0
+2010,Malays,20 - 24,University,13
+2010,Malays,25 - 29,University,276
+2010,Malays,30 - 34,University,252
+2010,Malays,35 - 39,University,119
+2010,Malays,40 - 44,University,20
+2010,Malays,45 - 49,University,0
+2010,Malays,50 - 54,University,0
+2010,Malays,Unknown,University,0
+2010,Malays,Under 15,Unknown,0
+2010,Malays,15 - 19,Unknown,1
+2010,Malays,20 - 24,Unknown,0
+2010,Malays,25 - 29,Unknown,1
+2010,Malays,30 - 34,Unknown,2
+2010,Malays,35 - 39,Unknown,0
+2010,Malays,40 - 44,Unknown,0
+2010,Malays,45 - 49,Unknown,0
+2010,Malays,50 - 54,Unknown,0
+2010,Malays,Unknown,Unknown,0
+2010,Indians,Under 15,No Qualification,0
+2010,Indians,15 - 19,No Qualification,2
+2010,Indians,20 - 24,No Qualification,14
+2010,Indians,25 - 29,No Qualification,33
+2010,Indians,30 - 34,No Qualification,22
+2010,Indians,35 - 39,No Qualification,22
+2010,Indians,40 - 44,No Qualification,7
+2010,Indians,45 - 49,No Qualification,1
+2010,Indians,50 - 54,No Qualification,0
+2010,Indians,Unknown,No Qualification,0
+2010,Indians,Under 15,Primary,0
+2010,Indians,15 - 19,Primary,16
+2010,Indians,20 - 24,Primary,80
+2010,Indians,25 - 29,Primary,78
+2010,Indians,30 - 34,Primary,81
+2010,Indians,35 - 39,Primary,35
+2010,Indians,40 - 44,Primary,8
+2010,Indians,45 - 49,Primary,0
+2010,Indians,50 - 54,Primary,0
+2010,Indians,Unknown,Primary,0
+2010,Indians,Under 15,Secondary,0
+2010,Indians,15 - 19,Secondary,45
+2010,Indians,20 - 24,Secondary,130
+2010,Indians,25 - 29,Secondary,193
+2010,Indians,30 - 34,Secondary,168
+2010,Indians,35 - 39,Secondary,93
+2010,Indians,40 - 44,Secondary,13
+2010,Indians,45 - 49,Secondary,1
+2010,Indians,50 - 54,Secondary,0
+2010,Indians,Unknown,Secondary,0
+2010,Indians,Under 15,Post Secondary,0
+2010,Indians,15 - 19,Post Secondary,0
+2010,Indians,20 - 24,Post Secondary,126
+2010,Indians,25 - 29,Post Secondary,355
+2010,Indians,30 - 34,Post Secondary,289
+2010,Indians,35 - 39,Post Secondary,76
+2010,Indians,40 - 44,Post Secondary,16
+2010,Indians,45 - 49,Post Secondary,1
+2010,Indians,50 - 54,Post Secondary,0
+2010,Indians,Unknown,Post Secondary,0
+2010,Indians,Under 15,University,0
+2010,Indians,15 - 19,University,0
+2010,Indians,20 - 24,University,48
+2010,Indians,25 - 29,University,694
+2010,Indians,30 - 34,University,973
+2010,Indians,35 - 39,University,286
+2010,Indians,40 - 44,University,34
+2010,Indians,45 - 49,University,1
+2010,Indians,50 - 54,University,0
+2010,Indians,Unknown,University,0
+2010,Indians,Under 15,Unknown,0
+2010,Indians,15 - 19,Unknown,0
+2010,Indians,20 - 24,Unknown,0
+2010,Indians,25 - 29,Unknown,0
+2010,Indians,30 - 34,Unknown,0
+2010,Indians,35 - 39,Unknown,0
+2010,Indians,40 - 44,Unknown,0
+2010,Indians,45 - 49,Unknown,0
+2010,Indians,50 - 54,Unknown,0
+2010,Indians,Unknown,Unknown,0
+2010,Others,Under 15,No Qualification,0
+2010,Others,15 - 19,No Qualification,10
+2010,Others,20 - 24,No Qualification,102
+2010,Others,25 - 29,No Qualification,99
+2010,Others,30 - 34,No Qualification,61
+2010,Others,35 - 39,No Qualification,22
+2010,Others,40 - 44,No Qualification,2
+2010,Others,45 - 49,No Qualification,0
+2010,Others,50 - 54,No Qualification,0
+2010,Others,Unknown,No Qualification,0
+2010,Others,Under 15,Primary,0
+2010,Others,15 - 19,Primary,15
+2010,Others,20 - 24,Primary,138
+2010,Others,25 - 29,Primary,128
+2010,Others,30 - 34,Primary,79
+2010,Others,35 - 39,Primary,40
+2010,Others,40 - 44,Primary,10
+2010,Others,45 - 49,Primary,1
+2010,Others,50 - 54,Primary,0
+2010,Others,Unknown,Primary,0
+2010,Others,Under 15,Secondary,0
+2010,Others,15 - 19,Secondary,12
+2010,Others,20 - 24,Secondary,58
+2010,Others,25 - 29,Secondary,63
+2010,Others,30 - 34,Secondary,54
+2010,Others,35 - 39,Secondary,34
+2010,Others,40 - 44,Secondary,2
+2010,Others,45 - 49,Secondary,1
+2010,Others,50 - 54,Secondary,0
+2010,Others,Unknown,Secondary,0
+2010,Others,Under 15,Post Secondary,0
+2010,Others,15 - 19,Post Secondary,1
+2010,Others,20 - 24,Post Secondary,99
+2010,Others,25 - 29,Post Secondary,228
+2010,Others,30 - 34,Post Secondary,229
+2010,Others,35 - 39,Post Secondary,146
+2010,Others,40 - 44,Post Secondary,39
+2010,Others,45 - 49,Post Secondary,3
+2010,Others,50 - 54,Post Secondary,0
+2010,Others,Unknown,Post Secondary,0
+2010,Others,Under 15,University,0
+2010,Others,15 - 19,University,0
+2010,Others,20 - 24,University,18
+2010,Others,25 - 29,University,555
+2010,Others,30 - 34,University,1249
+2010,Others,35 - 39,University,935
+2010,Others,40 - 44,University,138
+2010,Others,45 - 49,University,4
+2010,Others,50 - 54,University,0
+2010,Others,Unknown,University,0
+2010,Others,Under 15,Unknown,0
+2010,Others,15 - 19,Unknown,0
+2010,Others,20 - 24,Unknown,0
+2010,Others,25 - 29,Unknown,6
+2010,Others,30 - 34,Unknown,3
+2010,Others,35 - 39,Unknown,8
+2010,Others,40 - 44,Unknown,1
+2010,Others,45 - 49,Unknown,0
+2010,Others,50 - 54,Unknown,0
+2010,Others,Unknown,Unknown,0
+2011,Chinese,Under 15,No Qualification,0
+2011,Chinese,15 - 19,No Qualification,5
+2011,Chinese,20 - 24,No Qualification,46
+2011,Chinese,25 - 29,No Qualification,88
+2011,Chinese,30 - 34,No Qualification,87
+2011,Chinese,35 - 39,No Qualification,87
+2011,Chinese,40 - 44,No Qualification,33
+2011,Chinese,45 - 49,No Qualification,1
+2011,Chinese,50 - 54,No Qualification,0
+2011,Chinese,Unknown,No Qualification,0
+2011,Chinese,Under 15,Primary,4
+2011,Chinese,15 - 19,Primary,52
+2011,Chinese,20 - 24,Primary,205
+2011,Chinese,25 - 29,Primary,388
+2011,Chinese,30 - 34,Primary,445
+2011,Chinese,35 - 39,Primary,310
+2011,Chinese,40 - 44,Primary,59
+2011,Chinese,45 - 49,Primary,5
+2011,Chinese,50 - 54,Primary,0
+2011,Chinese,Unknown,Primary,0
+2011,Chinese,Under 15,Secondary,0
+2011,Chinese,15 - 19,Secondary,126
+2011,Chinese,20 - 24,Secondary,433
+2011,Chinese,25 - 29,Secondary,906
+2011,Chinese,30 - 34,Secondary,1035
+2011,Chinese,35 - 39,Secondary,755
+2011,Chinese,40 - 44,Secondary,138
+2011,Chinese,45 - 49,Secondary,1
+2011,Chinese,50 - 54,Secondary,0
+2011,Chinese,Unknown,Secondary,0
+2011,Chinese,Under 15,Post Secondary,0
+2011,Chinese,15 - 19,Post Secondary,0
+2011,Chinese,20 - 24,Post Secondary,475
+2011,Chinese,25 - 29,Post Secondary,1933
+2011,Chinese,30 - 34,Post Secondary,2612
+2011,Chinese,35 - 39,Post Secondary,1312
+2011,Chinese,40 - 44,Post Secondary,207
+2011,Chinese,45 - 49,Post Secondary,10
+2011,Chinese,50 - 54,Post Secondary,0
+2011,Chinese,Unknown,Post Secondary,0
+2011,Chinese,Under 15,University,0
+2011,Chinese,15 - 19,University,0
+2011,Chinese,20 - 24,University,73
+2011,Chinese,25 - 29,University,2963
+2011,Chinese,30 - 34,University,6334
+2011,Chinese,35 - 39,University,2891
+2011,Chinese,40 - 44,University,390
+2011,Chinese,45 - 49,University,14
+2011,Chinese,50 - 54,University,0
+2011,Chinese,Unknown,University,0
+2011,Chinese,Under 15,Unknown,0
+2011,Chinese,15 - 19,Unknown,0
+2011,Chinese,20 - 24,Unknown,0
+2011,Chinese,25 - 29,Unknown,1
+2011,Chinese,30 - 34,Unknown,0
+2011,Chinese,35 - 39,Unknown,0
+2011,Chinese,40 - 44,Unknown,0
+2011,Chinese,45 - 49,Unknown,0
+2011,Chinese,50 - 54,Unknown,0
+2011,Chinese,Unknown,Unknown,0
+2011,Malays,Under 15,No Qualification,0
+2011,Malays,15 - 19,No Qualification,20
+2011,Malays,20 - 24,No Qualification,47
+2011,Malays,25 - 29,No Qualification,81
+2011,Malays,30 - 34,No Qualification,117
+2011,Malays,35 - 39,No Qualification,70
+2011,Malays,40 - 44,No Qualification,24
+2011,Malays,45 - 49,No Qualification,1
+2011,Malays,50 - 54,No Qualification,0
+2011,Malays,Unknown,No Qualification,0
+2011,Malays,Under 15,Primary,4
+2011,Malays,15 - 19,Primary,119
+2011,Malays,20 - 24,Primary,182
+2011,Malays,25 - 29,Primary,223
+2011,Malays,30 - 34,Primary,188
+2011,Malays,35 - 39,Primary,85
+2011,Malays,40 - 44,Primary,29
+2011,Malays,45 - 49,Primary,3
+2011,Malays,50 - 54,Primary,0
+2011,Malays,Unknown,Primary,0
+2011,Malays,Under 15,Secondary,0
+2011,Malays,15 - 19,Secondary,196
+2011,Malays,20 - 24,Secondary,521
+2011,Malays,25 - 29,Secondary,864
+2011,Malays,30 - 34,Secondary,619
+2011,Malays,35 - 39,Secondary,270
+2011,Malays,40 - 44,Secondary,71
+2011,Malays,45 - 49,Secondary,1
+2011,Malays,50 - 54,Secondary,0
+2011,Malays,Unknown,Secondary,0
+2011,Malays,Under 15,Post Secondary,0
+2011,Malays,15 - 19,Post Secondary,0
+2011,Malays,20 - 24,Post Secondary,215
+2011,Malays,25 - 29,Post Secondary,850
+2011,Malays,30 - 34,Post Secondary,466
+2011,Malays,35 - 39,Post Secondary,165
+2011,Malays,40 - 44,Post Secondary,40
+2011,Malays,45 - 49,Post Secondary,2
+2011,Malays,50 - 54,Post Secondary,0
+2011,Malays,Unknown,Post Secondary,0
+2011,Malays,Under 15,University,0
+2011,Malays,15 - 19,University,0
+2011,Malays,20 - 24,University,23
+2011,Malays,25 - 29,University,311
+2011,Malays,30 - 34,University,336
+2011,Malays,35 - 39,University,130
+2011,Malays,40 - 44,University,17
+2011,Malays,45 - 49,University,0
+2011,Malays,50 - 54,University,0
+2011,Malays,Unknown,University,0
+2011,Malays,Under 15,Unknown,0
+2011,Malays,15 - 19,Unknown,0
+2011,Malays,20 - 24,Unknown,0
+2011,Malays,25 - 29,Unknown,1
+2011,Malays,30 - 34,Unknown,0
+2011,Malays,35 - 39,Unknown,0
+2011,Malays,40 - 44,Unknown,0
+2011,Malays,45 - 49,Unknown,1
+2011,Malays,50 - 54,Unknown,1
+2011,Malays,Unknown,Unknown,0
+2011,Indians,Under 15,No Qualification,0
+2011,Indians,15 - 19,No Qualification,7
+2011,Indians,20 - 24,No Qualification,22
+2011,Indians,25 - 29,No Qualification,23
+2011,Indians,30 - 34,No Qualification,20
+2011,Indians,35 - 39,No Qualification,11
+2011,Indians,40 - 44,No Qualification,8
+2011,Indians,45 - 49,No Qualification,0
+2011,Indians,50 - 54,No Qualification,0
+2011,Indians,Unknown,No Qualification,0
+2011,Indians,Under 15,Primary,0
+2011,Indians,15 - 19,Primary,18
+2011,Indians,20 - 24,Primary,62
+2011,Indians,25 - 29,Primary,71
+2011,Indians,30 - 34,Primary,54
+2011,Indians,35 - 39,Primary,35
+2011,Indians,40 - 44,Primary,5
+2011,Indians,45 - 49,Primary,0
+2011,Indians,50 - 54,Primary,0
+2011,Indians,Unknown,Primary,0
+2011,Indians,Under 15,Secondary,0
+2011,Indians,15 - 19,Secondary,42
+2011,Indians,20 - 24,Secondary,111
+2011,Indians,25 - 29,Secondary,208
+2011,Indians,30 - 34,Secondary,156
+2011,Indians,35 - 39,Secondary,77
+2011,Indians,40 - 44,Secondary,16
+2011,Indians,45 - 49,Secondary,1
+2011,Indians,50 - 54,Secondary,0
+2011,Indians,Unknown,Secondary,0
+2011,Indians,Under 15,Post Secondary,0
+2011,Indians,15 - 19,Post Secondary,0
+2011,Indians,20 - 24,Post Secondary,132
+2011,Indians,25 - 29,Post Secondary,334
+2011,Indians,30 - 34,Post Secondary,307
+2011,Indians,35 - 39,Post Secondary,100
+2011,Indians,40 - 44,Post Secondary,15
+2011,Indians,45 - 49,Post Secondary,1
+2011,Indians,50 - 54,Post Secondary,0
+2011,Indians,Unknown,Post Secondary,0
+2011,Indians,Under 15,University,0
+2011,Indians,15 - 19,University,0
+2011,Indians,20 - 24,University,31
+2011,Indians,25 - 29,University,670
+2011,Indians,30 - 34,University,1079
+2011,Indians,35 - 39,University,337
+2011,Indians,40 - 44,University,26
+2011,Indians,45 - 49,University,2
+2011,Indians,50 - 54,University,0
+2011,Indians,Unknown,University,0
+2011,Indians,Under 15,Unknown,0
+2011,Indians,15 - 19,Unknown,0
+2011,Indians,20 - 24,Unknown,0
+2011,Indians,25 - 29,Unknown,1
+2011,Indians,30 - 34,Unknown,0
+2011,Indians,35 - 39,Unknown,0
+2011,Indians,40 - 44,Unknown,0
+2011,Indians,45 - 49,Unknown,0
+2011,Indians,50 - 54,Unknown,0
+2011,Indians,Unknown,Unknown,0
+2011,Others,Under 15,No Qualification,0
+2011,Others,15 - 19,No Qualification,6
+2011,Others,20 - 24,No Qualification,105
+2011,Others,25 - 29,No Qualification,102
+2011,Others,30 - 34,No Qualification,79
+2011,Others,35 - 39,No Qualification,34
+2011,Others,40 - 44,No Qualification,4
+2011,Others,45 - 49,No Qualification,1
+2011,Others,50 - 54,No Qualification,0
+2011,Others,Unknown,No Qualification,0
+2011,Others,Under 15,Primary,0
+2011,Others,15 - 19,Primary,15
+2011,Others,20 - 24,Primary,118
+2011,Others,25 - 29,Primary,153
+2011,Others,30 - 34,Primary,98
+2011,Others,35 - 39,Primary,37
+2011,Others,40 - 44,Primary,5
+2011,Others,45 - 49,Primary,0
+2011,Others,50 - 54,Primary,0
+2011,Others,Unknown,Primary,0
+2011,Others,Under 15,Secondary,0
+2011,Others,15 - 19,Secondary,9
+2011,Others,20 - 24,Secondary,47
+2011,Others,25 - 29,Secondary,91
+2011,Others,30 - 34,Secondary,47
+2011,Others,35 - 39,Secondary,21
+2011,Others,40 - 44,Secondary,6
+2011,Others,45 - 49,Secondary,1
+2011,Others,50 - 54,Secondary,0
+2011,Others,Unknown,Secondary,0
+2011,Others,Under 15,Post Secondary,0
+2011,Others,15 - 19,Post Secondary,1
+2011,Others,20 - 24,Post Secondary,102
+2011,Others,25 - 29,Post Secondary,239
+2011,Others,30 - 34,Post Secondary,244
+2011,Others,35 - 39,Post Secondary,158
+2011,Others,40 - 44,Post Secondary,29
+2011,Others,45 - 49,Post Secondary,0
+2011,Others,50 - 54,Post Secondary,0
+2011,Others,Unknown,Post Secondary,0
+2011,Others,Under 15,University,0
+2011,Others,15 - 19,University,0
+2011,Others,20 - 24,University,33
+2011,Others,25 - 29,University,565
+2011,Others,30 - 34,University,1446
+2011,Others,35 - 39,University,963
+2011,Others,40 - 44,University,175
+2011,Others,45 - 49,University,10
+2011,Others,50 - 54,University,2
+2011,Others,Unknown,University,0
+2011,Others,Under 15,Unknown,0
+2011,Others,15 - 19,Unknown,0
+2011,Others,20 - 24,Unknown,3
+2011,Others,25 - 29,Unknown,4
+2011,Others,30 - 34,Unknown,1
+2011,Others,35 - 39,Unknown,0
+2011,Others,40 - 44,Unknown,0
+2011,Others,45 - 49,Unknown,0
+2011,Others,50 - 54,Unknown,0
+2011,Others,Unknown,Unknown,1
+2012,Chinese,Under 15,No Qualification,0
+2012,Chinese,15 - 19,No Qualification,3
+2012,Chinese,20 - 24,No Qualification,45
+2012,Chinese,25 - 29,No Qualification,86
+2012,Chinese,30 - 34,No Qualification,102
+2012,Chinese,35 - 39,No Qualification,83
+2012,Chinese,40 - 44,No Qualification,33
+2012,Chinese,45 - 49,No Qualification,2
+2012,Chinese,50 - 54,No Qualification,0
+2012,Chinese,Unknown,No Qualification,0
+2012,Chinese,Under 15,Primary,2
+2012,Chinese,15 - 19,Primary,55
+2012,Chinese,20 - 24,Primary,226
+2012,Chinese,25 - 29,Primary,352
+2012,Chinese,30 - 34,Primary,406
+2012,Chinese,35 - 39,Primary,312
+2012,Chinese,40 - 44,Primary,71
+2012,Chinese,45 - 49,Primary,4
+2012,Chinese,50 - 54,Primary,0
+2012,Chinese,Unknown,Primary,0
+2012,Chinese,Under 15,Secondary,0
+2012,Chinese,15 - 19,Secondary,122
+2012,Chinese,20 - 24,Secondary,490
+2012,Chinese,25 - 29,Secondary,877
+2012,Chinese,30 - 34,Secondary,1200
+2012,Chinese,35 - 39,Secondary,723
+2012,Chinese,40 - 44,Secondary,154
+2012,Chinese,45 - 49,Secondary,3
+2012,Chinese,50 - 54,Secondary,0
+2012,Chinese,Unknown,Secondary,0
+2012,Chinese,Under 15,Post Secondary,0
+2012,Chinese,15 - 19,Post Secondary,0
+2012,Chinese,20 - 24,Post Secondary,461
+2012,Chinese,25 - 29,Post Secondary,1854
+2012,Chinese,30 - 34,Post Secondary,2957
+2012,Chinese,35 - 39,Post Secondary,1392
+2012,Chinese,40 - 44,Post Secondary,211
+2012,Chinese,45 - 49,Post Secondary,5
+2012,Chinese,50 - 54,Post Secondary,0
+2012,Chinese,Unknown,Post Secondary,0
+2012,Chinese,Under 15,University,0
+2012,Chinese,15 - 19,University,0
+2012,Chinese,20 - 24,University,105
+2012,Chinese,25 - 29,University,3149
+2012,Chinese,30 - 34,University,7145
+2012,Chinese,35 - 39,University,3374
+2012,Chinese,40 - 44,University,456
+2012,Chinese,45 - 49,University,21
+2012,Chinese,50 - 54,University,0
+2012,Chinese,Unknown,University,0
+2012,Chinese,Under 15,Unknown,0
+2012,Chinese,15 - 19,Unknown,1
+2012,Chinese,20 - 24,Unknown,1
+2012,Chinese,25 - 29,Unknown,0
+2012,Chinese,30 - 34,Unknown,1
+2012,Chinese,35 - 39,Unknown,0
+2012,Chinese,40 - 44,Unknown,0
+2012,Chinese,45 - 49,Unknown,0
+2012,Chinese,50 - 54,Unknown,0
+2012,Chinese,Unknown,Unknown,0
+2012,Malays,Under 15,No Qualification,0
+2012,Malays,15 - 19,No Qualification,12
+2012,Malays,20 - 24,No Qualification,44
+2012,Malays,25 - 29,No Qualification,80
+2012,Malays,30 - 34,No Qualification,97
+2012,Malays,35 - 39,No Qualification,83
+2012,Malays,40 - 44,No Qualification,23
+2012,Malays,45 - 49,No Qualification,0
+2012,Malays,50 - 54,No Qualification,0
+2012,Malays,Unknown,No Qualification,0
+2012,Malays,Under 15,Primary,3
+2012,Malays,15 - 19,Primary,109
+2012,Malays,20 - 24,Primary,190
+2012,Malays,25 - 29,Primary,199
+2012,Malays,30 - 34,Primary,173
+2012,Malays,35 - 39,Primary,92
+2012,Malays,40 - 44,Primary,30
+2012,Malays,45 - 49,Primary,3
+2012,Malays,50 - 54,Primary,0
+2012,Malays,Unknown,Primary,0
+2012,Malays,Under 15,Secondary,0
+2012,Malays,15 - 19,Secondary,186
+2012,Malays,20 - 24,Secondary,567
+2012,Malays,25 - 29,Secondary,882
+2012,Malays,30 - 34,Secondary,598
+2012,Malays,35 - 39,Secondary,283
+2012,Malays,40 - 44,Secondary,71
+2012,Malays,45 - 49,Secondary,0
+2012,Malays,50 - 54,Secondary,0
+2012,Malays,Unknown,Secondary,0
+2012,Malays,Under 15,Post Secondary,0
+2012,Malays,15 - 19,Post Secondary,0
+2012,Malays,20 - 24,Post Secondary,190
+2012,Malays,25 - 29,Post Secondary,894
+2012,Malays,30 - 34,Post Secondary,609
+2012,Malays,35 - 39,Post Secondary,191
+2012,Malays,40 - 44,Post Secondary,33
+2012,Malays,45 - 49,Post Secondary,0
+2012,Malays,50 - 54,Post Secondary,0
+2012,Malays,Unknown,Post Secondary,0
+2012,Malays,Under 15,University,0
+2012,Malays,15 - 19,University,0
+2012,Malays,20 - 24,University,11
+2012,Malays,25 - 29,University,319
+2012,Malays,30 - 34,University,357
+2012,Malays,35 - 39,University,134
+2012,Malays,40 - 44,University,22
+2012,Malays,45 - 49,University,1
+2012,Malays,50 - 54,University,0
+2012,Malays,Unknown,University,0
+2012,Malays,Under 15,Unknown,0
+2012,Malays,15 - 19,Unknown,0
+2012,Malays,20 - 24,Unknown,0
+2012,Malays,25 - 29,Unknown,0
+2012,Malays,30 - 34,Unknown,0
+2012,Malays,35 - 39,Unknown,0
+2012,Malays,40 - 44,Unknown,0
+2012,Malays,45 - 49,Unknown,0
+2012,Malays,50 - 54,Unknown,0
+2012,Malays,Unknown,Unknown,0
+2012,Indians,Under 15,No Qualification,0
+2012,Indians,15 - 19,No Qualification,2
+2012,Indians,20 - 24,No Qualification,9
+2012,Indians,25 - 29,No Qualification,23
+2012,Indians,30 - 34,No Qualification,21
+2012,Indians,35 - 39,No Qualification,17
+2012,Indians,40 - 44,No Qualification,2
+2012,Indians,45 - 49,No Qualification,0
+2012,Indians,50 - 54,No Qualification,0
+2012,Indians,Unknown,No Qualification,0
+2012,Indians,Under 15,Primary,1
+2012,Indians,15 - 19,Primary,17
+2012,Indians,20 - 24,Primary,46
+2012,Indians,25 - 29,Primary,60
+2012,Indians,30 - 34,Primary,56
+2012,Indians,35 - 39,Primary,26
+2012,Indians,40 - 44,Primary,13
+2012,Indians,45 - 49,Primary,0
+2012,Indians,50 - 54,Primary,0
+2012,Indians,Unknown,Primary,0
+2012,Indians,Under 15,Secondary,0
+2012,Indians,15 - 19,Secondary,25
+2012,Indians,20 - 24,Secondary,137
+2012,Indians,25 - 29,Secondary,193
+2012,Indians,30 - 34,Secondary,172
+2012,Indians,35 - 39,Secondary,71
+2012,Indians,40 - 44,Secondary,15
+2012,Indians,45 - 49,Secondary,0
+2012,Indians,50 - 54,Secondary,0
+2012,Indians,Unknown,Secondary,0
+2012,Indians,Under 15,Post Secondary,0
+2012,Indians,15 - 19,Post Secondary,0
+2012,Indians,20 - 24,Post Secondary,128
+2012,Indians,25 - 29,Post Secondary,383
+2012,Indians,30 - 34,Post Secondary,320
+2012,Indians,35 - 39,Post Secondary,91
+2012,Indians,40 - 44,Post Secondary,12
+2012,Indians,45 - 49,Post Secondary,0
+2012,Indians,50 - 54,Post Secondary,0
+2012,Indians,Unknown,Post Secondary,0
+2012,Indians,Under 15,University,0
+2012,Indians,15 - 19,University,0
+2012,Indians,20 - 24,University,44
+2012,Indians,25 - 29,University,763
+2012,Indians,30 - 34,University,1204
+2012,Indians,35 - 39,University,385
+2012,Indians,40 - 44,University,29
+2012,Indians,45 - 49,University,0
+2012,Indians,50 - 54,University,0
+2012,Indians,Unknown,University,0
+2012,Indians,Under 15,Unknown,0
+2012,Indians,15 - 19,Unknown,0
+2012,Indians,20 - 24,Unknown,0
+2012,Indians,25 - 29,Unknown,0
+2012,Indians,30 - 34,Unknown,0
+2012,Indians,35 - 39,Unknown,0
+2012,Indians,40 - 44,Unknown,0
+2012,Indians,45 - 49,Unknown,0
+2012,Indians,50 - 54,Unknown,0
+2012,Indians,Unknown,Unknown,0
+2012,Others,Under 15,No Qualification,0
+2012,Others,15 - 19,No Qualification,6
+2012,Others,20 - 24,No Qualification,100
+2012,Others,25 - 29,No Qualification,140
+2012,Others,30 - 34,No Qualification,90
+2012,Others,35 - 39,No Qualification,24
+2012,Others,40 - 44,No Qualification,6
+2012,Others,45 - 49,No Qualification,0
+2012,Others,50 - 54,No Qualification,0
+2012,Others,Unknown,No Qualification,0
+2012,Others,Under 15,Primary,1
+2012,Others,15 - 19,Primary,19
+2012,Others,20 - 24,Primary,99
+2012,Others,25 - 29,Primary,169
+2012,Others,30 - 34,Primary,94
+2012,Others,35 - 39,Primary,27
+2012,Others,40 - 44,Primary,7
+2012,Others,45 - 49,Primary,0
+2012,Others,50 - 54,Primary,2
+2012,Others,Unknown,Primary,0
+2012,Others,Under 15,Secondary,0
+2012,Others,15 - 19,Secondary,11
+2012,Others,20 - 24,Secondary,55
+2012,Others,25 - 29,Secondary,81
+2012,Others,30 - 34,Secondary,61
+2012,Others,35 - 39,Secondary,36
+2012,Others,40 - 44,Secondary,5
+2012,Others,45 - 49,Secondary,0
+2012,Others,50 - 54,Secondary,0
+2012,Others,Unknown,Secondary,0
+2012,Others,Under 15,Post Secondary,0
+2012,Others,15 - 19,Post Secondary,0
+2012,Others,20 - 24,Post Secondary,124
+2012,Others,25 - 29,Post Secondary,253
+2012,Others,30 - 34,Post Secondary,286
+2012,Others,35 - 39,Post Secondary,145
+2012,Others,40 - 44,Post Secondary,40
+2012,Others,45 - 49,Post Secondary,1
+2012,Others,50 - 54,Post Secondary,0
+2012,Others,Unknown,Post Secondary,0
+2012,Others,Under 15,University,0
+2012,Others,15 - 19,University,0
+2012,Others,20 - 24,University,28
+2012,Others,25 - 29,University,638
+2012,Others,30 - 34,University,1606
+2012,Others,35 - 39,University,1055
+2012,Others,40 - 44,University,208
+2012,Others,45 - 49,University,4
+2012,Others,50 - 54,University,0
+2012,Others,Unknown,University,0
+2012,Others,Under 15,Unknown,0
+2012,Others,15 - 19,Unknown,0
+2012,Others,20 - 24,Unknown,0
+2012,Others,25 - 29,Unknown,4
+2012,Others,30 - 34,Unknown,1
+2012,Others,35 - 39,Unknown,2
+2012,Others,40 - 44,Unknown,0
+2012,Others,45 - 49,Unknown,0
+2012,Others,50 - 54,Unknown,0
+2012,Others,Unknown,Unknown,0
+2013,Chinese,Under 15,No Qualification,0
+2013,Chinese,15 - 19,No Qualification,2
+2013,Chinese,20 - 24,No Qualification,27
+2013,Chinese,25 - 29,No Qualification,59
+2013,Chinese,30 - 34,No Qualification,82
+2013,Chinese,35 - 39,No Qualification,72
+2013,Chinese,40 - 44,No Qualification,20
+2013,Chinese,45 - 49,No Qualification,1
+2013,Chinese,50 - 54,No Qualification,0
+2013,Chinese,Unknown,No Qualification,0
+2013,Chinese,Under 15,Primary,1
+2013,Chinese,15 - 19,Primary,42
+2013,Chinese,20 - 24,Primary,150
+2013,Chinese,25 - 29,Primary,243
+2013,Chinese,30 - 34,Primary,303
+2013,Chinese,35 - 39,Primary,218
+2013,Chinese,40 - 44,Primary,64
+2013,Chinese,45 - 49,Primary,4
+2013,Chinese,50 - 54,Primary,1
+2013,Chinese,Unknown,Primary,0
+2013,Chinese,Under 15,Secondary,0
+2013,Chinese,15 - 19,Secondary,109
+2013,Chinese,20 - 24,Secondary,438
+2013,Chinese,25 - 29,Secondary,706
+2013,Chinese,30 - 34,Secondary,867
+2013,Chinese,35 - 39,Secondary,589
+2013,Chinese,40 - 44,Secondary,137
+2013,Chinese,45 - 49,Secondary,6
+2013,Chinese,50 - 54,Secondary,0
+2013,Chinese,Unknown,Secondary,0
+2013,Chinese,Under 15,Post Secondary,0
+2013,Chinese,15 - 19,Post Secondary,1
+2013,Chinese,20 - 24,Post Secondary,413
+2013,Chinese,25 - 29,Post Secondary,1636
+2013,Chinese,30 - 34,Post Secondary,2420
+2013,Chinese,35 - 39,Post Secondary,1262
+2013,Chinese,40 - 44,Post Secondary,243
+2013,Chinese,45 - 49,Post Secondary,15
+2013,Chinese,50 - 54,Post Secondary,0
+2013,Chinese,Unknown,Post Secondary,0
+2013,Chinese,Under 15,University,0
+2013,Chinese,15 - 19,University,0
+2013,Chinese,20 - 24,University,90
+2013,Chinese,25 - 29,University,2936
+2013,Chinese,30 - 34,University,6786
+2013,Chinese,35 - 39,University,3248
+2013,Chinese,40 - 44,University,475
+2013,Chinese,45 - 49,University,18
+2013,Chinese,50 - 54,University,2
+2013,Chinese,Unknown,University,0
+2013,Chinese,Under 15,Unknown,0
+2013,Chinese,15 - 19,Unknown,0
+2013,Chinese,20 - 24,Unknown,0
+2013,Chinese,25 - 29,Unknown,0
+2013,Chinese,30 - 34,Unknown,0
+2013,Chinese,35 - 39,Unknown,0
+2013,Chinese,40 - 44,Unknown,0
+2013,Chinese,45 - 49,Unknown,0
+2013,Chinese,50 - 54,Unknown,0
+2013,Chinese,Unknown,Unknown,0
+2013,Malays,Under 15,No Qualification,0
+2013,Malays,15 - 19,No Qualification,5
+2013,Malays,20 - 24,No Qualification,33
+2013,Malays,25 - 29,No Qualification,57
+2013,Malays,30 - 34,No Qualification,80
+2013,Malays,35 - 39,No Qualification,74
+2013,Malays,40 - 44,No Qualification,22
+2013,Malays,45 - 49,No Qualification,1
+2013,Malays,50 - 54,No Qualification,0
+2013,Malays,Unknown,No Qualification,0
+2013,Malays,Under 15,Primary,4
+2013,Malays,15 - 19,Primary,88
+2013,Malays,20 - 24,Primary,155
+2013,Malays,25 - 29,Primary,187
+2013,Malays,30 - 34,Primary,156
+2013,Malays,35 - 39,Primary,100
+2013,Malays,40 - 44,Primary,24
+2013,Malays,45 - 49,Primary,0
+2013,Malays,50 - 54,Primary,0
+2013,Malays,Unknown,Primary,0
+2013,Malays,Under 15,Secondary,0
+2013,Malays,15 - 19,Secondary,154
+2013,Malays,20 - 24,Secondary,553
+2013,Malays,25 - 29,Secondary,904
+2013,Malays,30 - 34,Secondary,659
+2013,Malays,35 - 39,Secondary,269
+2013,Malays,40 - 44,Secondary,75
+2013,Malays,45 - 49,Secondary,1
+2013,Malays,50 - 54,Secondary,0
+2013,Malays,Unknown,Secondary,0
+2013,Malays,Under 15,Post Secondary,0
+2013,Malays,15 - 19,Post Secondary,0
+2013,Malays,20 - 24,Post Secondary,201
+2013,Malays,25 - 29,Post Secondary,905
+2013,Malays,30 - 34,Post Secondary,595
+2013,Malays,35 - 39,Post Secondary,214
+2013,Malays,40 - 44,Post Secondary,36
+2013,Malays,45 - 49,Post Secondary,1
+2013,Malays,50 - 54,Post Secondary,0
+2013,Malays,Unknown,Post Secondary,0
+2013,Malays,Under 15,University,0
+2013,Malays,15 - 19,University,0
+2013,Malays,20 - 24,University,16
+2013,Malays,25 - 29,University,388
+2013,Malays,30 - 34,University,374
+2013,Malays,35 - 39,University,159
+2013,Malays,40 - 44,University,30
+2013,Malays,45 - 49,University,1
+2013,Malays,50 - 54,University,0
+2013,Malays,Unknown,University,0
+2013,Malays,Under 15,Unknown,0
+2013,Malays,15 - 19,Unknown,0
+2013,Malays,20 - 24,Unknown,0
+2013,Malays,25 - 29,Unknown,0
+2013,Malays,30 - 34,Unknown,0
+2013,Malays,35 - 39,Unknown,0
+2013,Malays,40 - 44,Unknown,0
+2013,Malays,45 - 49,Unknown,0
+2013,Malays,50 - 54,Unknown,0
+2013,Malays,Unknown,Unknown,0
+2013,Indians,Under 15,No Qualification,0
+2013,Indians,15 - 19,No Qualification,0
+2013,Indians,20 - 24,No Qualification,8
+2013,Indians,25 - 29,No Qualification,10
+2013,Indians,30 - 34,No Qualification,22
+2013,Indians,35 - 39,No Qualification,13
+2013,Indians,40 - 44,No Qualification,3
+2013,Indians,45 - 49,No Qualification,1
+2013,Indians,50 - 54,No Qualification,0
+2013,Indians,Unknown,No Qualification,0
+2013,Indians,Under 15,Primary,1
+2013,Indians,15 - 19,Primary,14
+2013,Indians,20 - 24,Primary,30
+2013,Indians,25 - 29,Primary,51
+2013,Indians,30 - 34,Primary,39
+2013,Indians,35 - 39,Primary,25
+2013,Indians,40 - 44,Primary,7
+2013,Indians,45 - 49,Primary,0
+2013,Indians,50 - 54,Primary,0
+2013,Indians,Unknown,Primary,0
+2013,Indians,Under 15,Secondary,0
+2013,Indians,15 - 19,Secondary,34
+2013,Indians,20 - 24,Secondary,127
+2013,Indians,25 - 29,Secondary,192
+2013,Indians,30 - 34,Secondary,173
+2013,Indians,35 - 39,Secondary,78
+2013,Indians,40 - 44,Secondary,20
+2013,Indians,45 - 49,Secondary,1
+2013,Indians,50 - 54,Secondary,0
+2013,Indians,Unknown,Secondary,0
+2013,Indians,Under 15,Post Secondary,0
+2013,Indians,15 - 19,Post Secondary,1
+2013,Indians,20 - 24,Post Secondary,124
+2013,Indians,25 - 29,Post Secondary,325
+2013,Indians,30 - 34,Post Secondary,254
+2013,Indians,35 - 39,Post Secondary,93
+2013,Indians,40 - 44,Post Secondary,19
+2013,Indians,45 - 49,Post Secondary,0
+2013,Indians,50 - 54,Post Secondary,0
+2013,Indians,Unknown,Post Secondary,0
+2013,Indians,Under 15,University,0
+2013,Indians,15 - 19,University,0
+2013,Indians,20 - 24,University,43
+2013,Indians,25 - 29,University,748
+2013,Indians,30 - 34,University,1274
+2013,Indians,35 - 39,University,429
+2013,Indians,40 - 44,University,26
+2013,Indians,45 - 49,University,0
+2013,Indians,50 - 54,University,0
+2013,Indians,Unknown,University,0
+2013,Indians,Under 15,Unknown,0
+2013,Indians,15 - 19,Unknown,0
+2013,Indians,20 - 24,Unknown,0
+2013,Indians,25 - 29,Unknown,0
+2013,Indians,30 - 34,Unknown,0
+2013,Indians,35 - 39,Unknown,0
+2013,Indians,40 - 44,Unknown,0
+2013,Indians,45 - 49,Unknown,0
+2013,Indians,50 - 54,Unknown,0
+2013,Indians,Unknown,Unknown,0
+2013,Others,Under 15,No Qualification,0
+2013,Others,15 - 19,No Qualification,9
+2013,Others,20 - 24,No Qualification,70
+2013,Others,25 - 29,No Qualification,121
+2013,Others,30 - 34,No Qualification,88
+2013,Others,35 - 39,No Qualification,36
+2013,Others,40 - 44,No Qualification,4
+2013,Others,45 - 49,No Qualification,1
+2013,Others,50 - 54,No Qualification,0
+2013,Others,Unknown,No Qualification,0
+2013,Others,Under 15,Primary,0
+2013,Others,15 - 19,Primary,11
+2013,Others,20 - 24,Primary,101
+2013,Others,25 - 29,Primary,117
+2013,Others,30 - 34,Primary,87
+2013,Others,35 - 39,Primary,31
+2013,Others,40 - 44,Primary,4
+2013,Others,45 - 49,Primary,0
+2013,Others,50 - 54,Primary,0
+2013,Others,Unknown,Primary,0
+2013,Others,Under 15,Secondary,0
+2013,Others,15 - 19,Secondary,11
+2013,Others,20 - 24,Secondary,42
+2013,Others,25 - 29,Secondary,92
+2013,Others,30 - 34,Secondary,76
+2013,Others,35 - 39,Secondary,26
+2013,Others,40 - 44,Secondary,9
+2013,Others,45 - 49,Secondary,1
+2013,Others,50 - 54,Secondary,0
+2013,Others,Unknown,Secondary,0
+2013,Others,Under 15,Post Secondary,0
+2013,Others,15 - 19,Post Secondary,0
+2013,Others,20 - 24,Post Secondary,97
+2013,Others,25 - 29,Post Secondary,229
+2013,Others,30 - 34,Post Secondary,277
+2013,Others,35 - 39,Post Secondary,121
+2013,Others,40 - 44,Post Secondary,30
+2013,Others,45 - 49,Post Secondary,0
+2013,Others,50 - 54,Post Secondary,0
+2013,Others,Unknown,Post Secondary,0
+2013,Others,Under 15,University,0
+2013,Others,15 - 19,University,0
+2013,Others,20 - 24,University,26
+2013,Others,25 - 29,University,573
+2013,Others,30 - 34,University,1673
+2013,Others,35 - 39,University,1137
+2013,Others,40 - 44,University,218
+2013,Others,45 - 49,University,7
+2013,Others,50 - 54,University,0
+2013,Others,Unknown,University,0
+2013,Others,Under 15,Unknown,0
+2013,Others,15 - 19,Unknown,0
+2013,Others,20 - 24,Unknown,0
+2013,Others,25 - 29,Unknown,0
+2013,Others,30 - 34,Unknown,3
+2013,Others,35 - 39,Unknown,0
+2013,Others,40 - 44,Unknown,0
+2013,Others,45 - 49,Unknown,0
+2013,Others,50 - 54,Unknown,0
+2013,Others,Unknown,Unknown,0
+2014,Chinese,Under 15,No Qualification,0
+2014,Chinese,15 - 19,No Qualification,1
+2014,Chinese,20 - 24,No Qualification,30
+2014,Chinese,25 - 29,No Qualification,60
+2014,Chinese,30 - 34,No Qualification,73
+2014,Chinese,35 - 39,No Qualification,52
+2014,Chinese,40 - 44,No Qualification,18
+2014,Chinese,45 - 49,No Qualification,0
+2014,Chinese,50 - 54,No Qualification,0
+2014,Chinese,Unknown,No Qualification,0
+2014,Chinese,Under 15,Primary,1
+2014,Chinese,15 - 19,Primary,38
+2014,Chinese,20 - 24,Primary,162
+2014,Chinese,25 - 29,Primary,298
+2014,Chinese,30 - 34,Primary,321
+2014,Chinese,35 - 39,Primary,225
+2014,Chinese,40 - 44,Primary,63
+2014,Chinese,45 - 49,Primary,2
+2014,Chinese,50 - 54,Primary,0
+2014,Chinese,Unknown,Primary,0
+2014,Chinese,Under 15,Secondary,0
+2014,Chinese,15 - 19,Secondary,95
+2014,Chinese,20 - 24,Secondary,378
+2014,Chinese,25 - 29,Secondary,743
+2014,Chinese,30 - 34,Secondary,909
+2014,Chinese,35 - 39,Secondary,596
+2014,Chinese,40 - 44,Secondary,138
+2014,Chinese,45 - 49,Secondary,4
+2014,Chinese,50 - 54,Secondary,0
+2014,Chinese,Unknown,Secondary,0
+2014,Chinese,Under 15,Post Secondary,0
+2014,Chinese,15 - 19,Post Secondary,1
+2014,Chinese,20 - 24,Post Secondary,405
+2014,Chinese,25 - 29,Post Secondary,1753
+2014,Chinese,30 - 34,Post Secondary,2688
+2014,Chinese,35 - 39,Post Secondary,1366
+2014,Chinese,40 - 44,Post Secondary,215
+2014,Chinese,45 - 49,Post Secondary,2
+2014,Chinese,50 - 54,Post Secondary,0
+2014,Chinese,Unknown,Post Secondary,0
+2014,Chinese,Under 15,University,0
+2014,Chinese,15 - 19,University,0
+2014,Chinese,20 - 24,University,66
+2014,Chinese,25 - 29,University,3134
+2014,Chinese,30 - 34,University,7640
+2014,Chinese,35 - 39,University,3621
+2014,Chinese,40 - 44,University,542
+2014,Chinese,45 - 49,University,17
+2014,Chinese,50 - 54,University,2
+2014,Chinese,Unknown,University,0
+2014,Chinese,Under 15,Unknown,0
+2014,Chinese,15 - 19,Unknown,0
+2014,Chinese,20 - 24,Unknown,0
+2014,Chinese,25 - 29,Unknown,0
+2014,Chinese,30 - 34,Unknown,0
+2014,Chinese,35 - 39,Unknown,0
+2014,Chinese,40 - 44,Unknown,0
+2014,Chinese,45 - 49,Unknown,0
+2014,Chinese,50 - 54,Unknown,0
+2014,Chinese,Unknown,Unknown,0
+2014,Malays,Under 15,No Qualification,1
+2014,Malays,15 - 19,No Qualification,8
+2014,Malays,20 - 24,No Qualification,40
+2014,Malays,25 - 29,No Qualification,52
+2014,Malays,30 - 34,No Qualification,91
+2014,Malays,35 - 39,No Qualification,67
+2014,Malays,40 - 44,No Qualification,20
+2014,Malays,45 - 49,No Qualification,1
+2014,Malays,50 - 54,No Qualification,0
+2014,Malays,Unknown,No Qualification,0
+2014,Malays,Under 15,Primary,2
+2014,Malays,15 - 19,Primary,70
+2014,Malays,20 - 24,Primary,155
+2014,Malays,25 - 29,Primary,180
+2014,Malays,30 - 34,Primary,162
+2014,Malays,35 - 39,Primary,84
+2014,Malays,40 - 44,Primary,35
+2014,Malays,45 - 49,Primary,2
+2014,Malays,50 - 54,Primary,0
+2014,Malays,Unknown,Primary,0
+2014,Malays,Under 15,Secondary,0
+2014,Malays,15 - 19,Secondary,128
+2014,Malays,20 - 24,Secondary,551
+2014,Malays,25 - 29,Secondary,893
+2014,Malays,30 - 34,Secondary,675
+2014,Malays,35 - 39,Secondary,314
+2014,Malays,40 - 44,Secondary,83
+2014,Malays,45 - 49,Secondary,3
+2014,Malays,50 - 54,Secondary,0
+2014,Malays,Unknown,Secondary,0
+2014,Malays,Under 15,Post Secondary,0
+2014,Malays,15 - 19,Post Secondary,1
+2014,Malays,20 - 24,Post Secondary,199
+2014,Malays,25 - 29,Post Secondary,987
+2014,Malays,30 - 34,Post Secondary,759
+2014,Malays,35 - 39,Post Secondary,235
+2014,Malays,40 - 44,Post Secondary,37
+2014,Malays,45 - 49,Post Secondary,2
+2014,Malays,50 - 54,Post Secondary,0
+2014,Malays,Unknown,Post Secondary,0
+2014,Malays,Under 15,University,0
+2014,Malays,15 - 19,University,0
+2014,Malays,20 - 24,University,11
+2014,Malays,25 - 29,University,430
+2014,Malays,30 - 34,University,401
+2014,Malays,35 - 39,University,150
+2014,Malays,40 - 44,University,27
+2014,Malays,45 - 49,University,1
+2014,Malays,50 - 54,University,0
+2014,Malays,Unknown,University,0
+2014,Malays,Under 15,Unknown,0
+2014,Malays,15 - 19,Unknown,0
+2014,Malays,20 - 24,Unknown,0
+2014,Malays,25 - 29,Unknown,1
+2014,Malays,30 - 34,Unknown,2
+2014,Malays,35 - 39,Unknown,1
+2014,Malays,40 - 44,Unknown,0
+2014,Malays,45 - 49,Unknown,0
+2014,Malays,50 - 54,Unknown,0
+2014,Malays,Unknown,Unknown,0
+2014,Indians,Under 15,No Qualification,0
+2014,Indians,15 - 19,No Qualification,0
+2014,Indians,20 - 24,No Qualification,11
+2014,Indians,25 - 29,No Qualification,16
+2014,Indians,30 - 34,No Qualification,18
+2014,Indians,35 - 39,No Qualification,13
+2014,Indians,40 - 44,No Qualification,3
+2014,Indians,45 - 49,No Qualification,0
+2014,Indians,50 - 54,No Qualification,0
+2014,Indians,Unknown,No Qualification,0
+2014,Indians,Under 15,Primary,0
+2014,Indians,15 - 19,Primary,17
+2014,Indians,20 - 24,Primary,50
+2014,Indians,25 - 29,Primary,38
+2014,Indians,30 - 34,Primary,43
+2014,Indians,35 - 39,Primary,27
+2014,Indians,40 - 44,Primary,7
+2014,Indians,45 - 49,Primary,0
+2014,Indians,50 - 54,Primary,0
+2014,Indians,Unknown,Primary,0
+2014,Indians,Under 15,Secondary,0
+2014,Indians,15 - 19,Secondary,21
+2014,Indians,20 - 24,Secondary,112
+2014,Indians,25 - 29,Secondary,198
+2014,Indians,30 - 34,Secondary,184
+2014,Indians,35 - 39,Secondary,69
+2014,Indians,40 - 44,Secondary,9
+2014,Indians,45 - 49,Secondary,1
+2014,Indians,50 - 54,Secondary,0
+2014,Indians,Unknown,Secondary,0
+2014,Indians,Under 15,Post Secondary,0
+2014,Indians,15 - 19,Post Secondary,0
+2014,Indians,20 - 24,Post Secondary,140
+2014,Indians,25 - 29,Post Secondary,350
+2014,Indians,30 - 34,Post Secondary,305
+2014,Indians,35 - 39,Post Secondary,95
+2014,Indians,40 - 44,Post Secondary,16
+2014,Indians,45 - 49,Post Secondary,0
+2014,Indians,50 - 54,Post Secondary,0
+2014,Indians,Unknown,Post Secondary,0
+2014,Indians,Under 15,University,0
+2014,Indians,15 - 19,University,0
+2014,Indians,20 - 24,University,35
+2014,Indians,25 - 29,University,713
+2014,Indians,30 - 34,University,1233
+2014,Indians,35 - 39,University,483
+2014,Indians,40 - 44,University,62
+2014,Indians,45 - 49,University,3
+2014,Indians,50 - 54,University,0
+2014,Indians,Unknown,University,0
+2014,Indians,Under 15,Unknown,0
+2014,Indians,15 - 19,Unknown,0
+2014,Indians,20 - 24,Unknown,0
+2014,Indians,25 - 29,Unknown,0
+2014,Indians,30 - 34,Unknown,0
+2014,Indians,35 - 39,Unknown,0
+2014,Indians,40 - 44,Unknown,0
+2014,Indians,45 - 49,Unknown,0
+2014,Indians,50 - 54,Unknown,0
+2014,Indians,Unknown,Unknown,0
+2014,Others,Under 15,No Qualification,0
+2014,Others,15 - 19,No Qualification,3
+2014,Others,20 - 24,No Qualification,71
+2014,Others,25 - 29,No Qualification,120
+2014,Others,30 - 34,No Qualification,92
+2014,Others,35 - 39,No Qualification,36
+2014,Others,40 - 44,No Qualification,3
+2014,Others,45 - 49,No Qualification,0
+2014,Others,50 - 54,No Qualification,0
+2014,Others,Unknown,No Qualification,0
+2014,Others,Under 15,Primary,0
+2014,Others,15 - 19,Primary,14
+2014,Others,20 - 24,Primary,78
+2014,Others,25 - 29,Primary,152
+2014,Others,30 - 34,Primary,91
+2014,Others,35 - 39,Primary,37
+2014,Others,40 - 44,Primary,4
+2014,Others,45 - 49,Primary,0
+2014,Others,50 - 54,Primary,0
+2014,Others,Unknown,Primary,0
+2014,Others,Under 15,Secondary,0
+2014,Others,15 - 19,Secondary,5
+2014,Others,20 - 24,Secondary,41
+2014,Others,25 - 29,Secondary,57
+2014,Others,30 - 34,Secondary,57
+2014,Others,35 - 39,Secondary,33
+2014,Others,40 - 44,Secondary,7
+2014,Others,45 - 49,Secondary,1
+2014,Others,50 - 54,Secondary,0
+2014,Others,Unknown,Secondary,0
+2014,Others,Under 15,Post Secondary,0
+2014,Others,15 - 19,Post Secondary,0
+2014,Others,20 - 24,Post Secondary,109
+2014,Others,25 - 29,Post Secondary,256
+2014,Others,30 - 34,Post Secondary,280
+2014,Others,35 - 39,Post Secondary,164
+2014,Others,40 - 44,Post Secondary,34
+2014,Others,45 - 49,Post Secondary,4
+2014,Others,50 - 54,Post Secondary,0
+2014,Others,Unknown,Post Secondary,0
+2014,Others,Under 15,University,0
+2014,Others,15 - 19,University,0
+2014,Others,20 - 24,University,27
+2014,Others,25 - 29,University,571
+2014,Others,30 - 34,University,1706
+2014,Others,35 - 39,University,1128
+2014,Others,40 - 44,University,243
+2014,Others,45 - 49,University,9
+2014,Others,50 - 54,University,0
+2014,Others,Unknown,University,0
+2014,Others,Under 15,Unknown,0
+2014,Others,15 - 19,Unknown,0
+2014,Others,20 - 24,Unknown,0
+2014,Others,25 - 29,Unknown,2
+2014,Others,30 - 34,Unknown,2
+2014,Others,35 - 39,Unknown,3
+2014,Others,40 - 44,Unknown,0
+2014,Others,45 - 49,Unknown,0
+2014,Others,50 - 54,Unknown,0
+2014,Others,Unknown,Unknown,0
+2015,Chinese,15 - 19,Post Secondary,1
+2015,Chinese,15 - 19,Primary,22
+2015,Chinese,15 - 19,Secondary,66
+2015,Chinese,20 - 24,No Qualification,15
+2015,Chinese,20 - 24,Post Secondary,382
+2015,Chinese,20 - 24,Primary,142
+2015,Chinese,20 - 24,Secondary,328
+2015,Chinese,20 - 24,University,77
+2015,Chinese,25 - 29,No Qualification,54
+2015,Chinese,25 - 29,Post Secondary,1663
+2015,Chinese,25 - 29,Primary,265
+2015,Chinese,25 - 29,Secondary,707
+2015,Chinese,25 - 29,University,2913
+2015,Chinese,30 - 34,No Qualification,61
+2015,Chinese,30 - 34,Post Secondary,2469
+2015,Chinese,30 - 34,Primary,283
+2015,Chinese,30 - 34,Secondary,720
+2015,Chinese,30 - 34,University,7540
+2015,Chinese,35 - 39,No Qualification,52
+2015,Chinese,35 - 39,Post Secondary,1335
+2015,Chinese,35 - 39,Primary,191
+2015,Chinese,35 - 39,Secondary,543
+2015,Chinese,35 - 39,University,4009
+2015,Chinese,40 - 44,No Qualification,21
+2015,Chinese,40 - 44,Post Secondary,275
+2015,Chinese,40 - 44,Primary,71
+2015,Chinese,40 - 44,Secondary,159
+2015,Chinese,40 - 44,University,580
+2015,Chinese,45 - 49,No Qualification,1
+2015,Chinese,45 - 49,Post Secondary,11
+2015,Chinese,45 - 49,Secondary,8
+2015,Chinese,45 - 49,University,31
+2015,Chinese,50 - 54,University,6
+2015,Chinese,Under 15,Primary,4
+2015,Indians,15 - 19,No Qualification,2
+2015,Indians,15 - 19,Primary,14
+2015,Indians,15 - 19,Secondary,15
+2015,Indians,20 - 24,No Qualification,6
+2015,Indians,20 - 24,Post Secondary,107
+2015,Indians,20 - 24,Primary,35
+2015,Indians,20 - 24,Secondary,129
+2015,Indians,20 - 24,University,30
+2015,Indians,25 - 29,No Qualification,15
+2015,Indians,25 - 29,Post Secondary,306
+2015,Indians,25 - 29,Primary,46
+2015,Indians,25 - 29,Secondary,203
+2015,Indians,25 - 29,University,673
+2015,Indians,30 - 34,No Qualification,15
+2015,Indians,30 - 34,Post Secondary,328
+2015,Indians,30 - 34,Primary,37
+2015,Indians,30 - 34,Secondary,173
+2015,Indians,30 - 34,University,1469
+2015,Indians,35 - 39,No Qualification,15
+2015,Indians,35 - 39,Post Secondary,119
+2015,Indians,35 - 39,Primary,24
+2015,Indians,35 - 39,Secondary,83
+2015,Indians,35 - 39,University,510
+2015,Indians,40 - 44,No Qualification,6
+2015,Indians,40 - 44,Post Secondary,15
+2015,Indians,40 - 44,Primary,8
+2015,Indians,40 - 44,Secondary,19
+2015,Indians,40 - 44,University,55
+2015,Indians,45 - 49,Post Secondary,1
+2015,Indians,45 - 49,University,1
+2015,Indians,Under 15,Primary,2
+2015,Malays,15 - 19,No Qualification,3
+2015,Malays,15 - 19,Primary,81
+2015,Malays,15 - 19,Secondary,107
+2015,Malays,20 - 24,No Qualification,24
+2015,Malays,20 - 24,Post Secondary,246
+2015,Malays,20 - 24,Primary,148
+2015,Malays,20 - 24,Secondary,537
+2015,Malays,20 - 24,University,15
+2015,Malays,25 - 29,No Qualification,53
+2015,Malays,25 - 29,Post Secondary,1123
+2015,Malays,25 - 29,Primary,172
+2015,Malays,25 - 29,Secondary,952
+2015,Malays,25 - 29,University,479
+2015,Malays,30 - 34,No Qualification,85
+2015,Malays,30 - 34,Post Secondary,861
+2015,Malays,30 - 34,Primary,173
+2015,Malays,30 - 34,Secondary,707
+2015,Malays,30 - 34,University,523
+2015,Malays,35 - 39,No Qualification,56
+2015,Malays,35 - 39,Post Secondary,259
+2015,Malays,35 - 39,Primary,72
+2015,Malays,35 - 39,Secondary,289
+2015,Malays,35 - 39,University,185
+2015,Malays,35 - 39,Unknown,1
+2015,Malays,40 - 44,No Qualification,13
+2015,Malays,40 - 44,Post Secondary,28
+2015,Malays,40 - 44,Primary,32
+2015,Malays,40 - 44,Secondary,68
+2015,Malays,40 - 44,University,31
+2015,Malays,45 - 49,Post Secondary,1
+2015,Malays,45 - 49,Secondary,3
+2015,Malays,45 - 49,University,1
+2015,Malays,Under 15,Primary,3
+2015,Others,15 - 19,No Qualification,1
+2015,Others,15 - 19,Primary,9
+2015,Others,15 - 19,Secondary,11
+2015,Others,20 - 24,No Qualification,67
+2015,Others,20 - 24,Post Secondary,130
+2015,Others,20 - 24,Primary,86
+2015,Others,20 - 24,Secondary,29
+2015,Others,20 - 24,University,23
+2015,Others,20 - 24,Unknown,1
+2015,Others,25 - 29,No Qualification,130
+2015,Others,25 - 29,Post Secondary,223
+2015,Others,25 - 29,Primary,158
+2015,Others,25 - 29,Secondary,72
+2015,Others,25 - 29,University,525
+2015,Others,25 - 29,Unknown,1
+2015,Others,30 - 34,No Qualification,87
+2015,Others,30 - 34,Post Secondary,299
+2015,Others,30 - 34,Primary,121
+2015,Others,30 - 34,Secondary,73
+2015,Others,30 - 34,University,1677
+2015,Others,30 - 34,Unknown,2
+2015,Others,35 - 39,No Qualification,34
+2015,Others,35 - 39,Post Secondary,131
+2015,Others,35 - 39,Primary,40
+2015,Others,35 - 39,Secondary,23
+2015,Others,35 - 39,University,1131
+2015,Others,40 - 44,No Qualification,5
+2015,Others,40 - 44,Post Secondary,36
+2015,Others,40 - 44,Primary,5
+2015,Others,40 - 44,Secondary,4
+2015,Others,40 - 44,University,244
+2015,Others,45 - 49,Secondary,1
+2015,Others,45 - 49,University,8
+2015,Others,50 - 54,University,1
+2016,Chinese,15 - 19,No Qualification,2
+2016,Chinese,15 - 19,Primary,31
+2016,Chinese,15 - 19,Secondary,67
+2016,Chinese,20 - 24,No Qualification,19
+2016,Chinese,20 - 24,Post Secondary,366
+2016,Chinese,20 - 24,Primary,112
+2016,Chinese,20 - 24,Secondary,279
+2016,Chinese,20 - 24,University,74
+2016,Chinese,25 - 29,No Qualification,40
+2016,Chinese,25 - 29,Post Secondary,1544
+2016,Chinese,25 - 29,Primary,283
+2016,Chinese,25 - 29,Secondary,591
+2016,Chinese,25 - 29,University,3130
+2016,Chinese,30 - 34,No Qualification,46
+2016,Chinese,30 - 34,Post Secondary,2225
+2016,Chinese,30 - 34,Primary,267
+2016,Chinese,30 - 34,Secondary,671
+2016,Chinese,30 - 34,University,7651
+2016,Chinese,35 - 39,No Qualification,38
+2016,Chinese,35 - 39,Post Secondary,1312
+2016,Chinese,35 - 39,Primary,185
+2016,Chinese,35 - 39,Secondary,464
+2016,Chinese,35 - 39,University,3991
+2016,Chinese,40 - 44,No Qualification,17
+2016,Chinese,40 - 44,Post Secondary,239
+2016,Chinese,40 - 44,Primary,50
+2016,Chinese,40 - 44,Secondary,117
+2016,Chinese,40 - 44,University,638
+2016,Chinese,45 - 49,No Qualification,1
+2016,Chinese,45 - 49,Post Secondary,8
+2016,Chinese,45 - 49,Secondary,2
+2016,Chinese,45 - 49,University,21
+2016,Chinese,50 - 54,Post Secondary,1
+2016,Chinese,50 - 54,Primary,1
+2016,Chinese,55 - 59,Post Secondary,2
+2016,Chinese,Under 15,Primary,2
+2016,Indians,15 - 19,Primary,8
+2016,Indians,15 - 19,Secondary,22
+2016,Indians,20 - 24,No Qualification,3
+2016,Indians,20 - 24,Post Secondary,95
+2016,Indians,20 - 24,Primary,32
+2016,Indians,20 - 24,Secondary,90
+2016,Indians,20 - 24,University,39
+2016,Indians,25 - 29,No Qualification,14
+2016,Indians,25 - 29,Post Secondary,328
+2016,Indians,25 - 29,Primary,42
+2016,Indians,25 - 29,Secondary,151
+2016,Indians,25 - 29,University,542
+2016,Indians,30 - 34,No Qualification,15
+2016,Indians,30 - 34,Post Secondary,280
+2016,Indians,30 - 34,Primary,24
+2016,Indians,30 - 34,Secondary,136
+2016,Indians,30 - 34,University,1326
+2016,Indians,35 - 39,No Qualification,10
+2016,Indians,35 - 39,Post Secondary,119
+2016,Indians,35 - 39,Primary,19
+2016,Indians,35 - 39,Secondary,84
+2016,Indians,35 - 39,University,548
+2016,Indians,40 - 44,No Qualification,4
+2016,Indians,40 - 44,Post Secondary,15
+2016,Indians,40 - 44,Primary,12
+2016,Indians,40 - 44,Secondary,13
+2016,Indians,40 - 44,University,64
+2016,Indians,45 - 49,Post Secondary,1
+2016,Indians,45 - 49,Primary,1
+2016,Indians,45 - 49,Secondary,2
+2016,Indians,45 - 49,University,8
+2016,Malays,15 - 19,No Qualification,4
+2016,Malays,15 - 19,Primary,80
+2016,Malays,15 - 19,Secondary,82
+2016,Malays,20 - 24,No Qualification,21
+2016,Malays,20 - 24,Post Secondary,241
+2016,Malays,20 - 24,Primary,125
+2016,Malays,20 - 24,Secondary,492
+2016,Malays,20 - 24,University,37
+2016,Malays,25 - 29,No Qualification,64
+2016,Malays,25 - 29,Post Secondary,1150
+2016,Malays,25 - 29,Primary,181
+2016,Malays,25 - 29,Secondary,925
+2016,Malays,25 - 29,University,502
+2016,Malays,30 - 34,No Qualification,66
+2016,Malays,30 - 34,Post Secondary,878
+2016,Malays,30 - 34,Primary,178
+2016,Malays,30 - 34,Secondary,747
+2016,Malays,30 - 34,University,542
+2016,Malays,35 - 39,No Qualification,58
+2016,Malays,35 - 39,Post Secondary,310
+2016,Malays,35 - 39,Primary,103
+2016,Malays,35 - 39,Secondary,320
+2016,Malays,35 - 39,University,208
+2016,Malays,35 - 39,Unknown,1
+2016,Malays,40 - 44,No Qualification,18
+2016,Malays,40 - 44,Post Secondary,38
+2016,Malays,40 - 44,Primary,25
+2016,Malays,40 - 44,Secondary,75
+2016,Malays,40 - 44,University,24
+2016,Malays,45 - 49,No Qualification,1
+2016,Malays,45 - 49,Post Secondary,2
+2016,Malays,45 - 49,Primary,2
+2016,Malays,45 - 49,Secondary,1
+2016,Malays,Under 15,Primary,5
+2016,Others,15 - 19,No Qualification,2
+2016,Others,15 - 19,Primary,14
+2016,Others,15 - 19,Secondary,12
+2016,Others,20 - 24,No Qualification,50
+2016,Others,20 - 24,Post Secondary,94
+2016,Others,20 - 24,Primary,75
+2016,Others,20 - 24,Secondary,25
+2016,Others,20 - 24,University,22
+2016,Others,25 - 29,No Qualification,92
+2016,Others,25 - 29,Post Secondary,259
+2016,Others,25 - 29,Primary,155
+2016,Others,25 - 29,Secondary,45
+2016,Others,25 - 29,University,521
+2016,Others,30 - 34,No Qualification,97
+2016,Others,30 - 34,Post Secondary,246
+2016,Others,30 - 34,Primary,92
+2016,Others,30 - 34,Secondary,48
+2016,Others,30 - 34,University,1585
+2016,Others,30 - 34,Unknown,1
+2016,Others,35 - 39,No Qualification,45
+2016,Others,35 - 39,Post Secondary,166
+2016,Others,35 - 39,Primary,43
+2016,Others,35 - 39,Secondary,14
+2016,Others,35 - 39,University,1221
+2016,Others,40 - 44,No Qualification,8
+2016,Others,40 - 44,Post Secondary,35
+2016,Others,40 - 44,Primary,9
+2016,Others,40 - 44,Secondary,9
+2016,Others,40 - 44,University,210
+2016,Others,45 - 49,Post Secondary,2
+2016,Others,45 - 49,Secondary,1
+2016,Others,45 - 49,University,10
+2016,Others,50 - 54,University,2
+2016,Others,Under 15,Primary,1
